@@ -1,0 +1,2001 @@
+text,sentiment,words
+price great even crowd much better smaller flavorice,1,"['price', 'great', 'even', 'crowd', 'much', 'better', 'smaller', 'flavoric']"
+easy use,1,"['easi', 'use']"
+perfect hard licorice lovers,1,"['perfect', 'hard', 'licoric', 'lover']"
+new favorite,1,"['new', 'favorit']"
+poptarts work art,1,"['poptart', 'work', 'art']"
+great energy drink without artificial ingredients,1,"['great', 'energi', 'drink', 'without', 'artifici', 'ingredi']"
+lindt pistachio chocolate,1,"['lindt', 'pistachio', 'chocol']"
+bland,-1,['bland']
+buy less,1,"['buy', 'le']"
+cats love,1,"['cat', 'love']"
+much easier,1,"['much', 'easier']"
+best waffle mix find,1,"['best', 'waffl', 'mix', 'find']"
+yummy,1,['yummi']
+prefer whole slices,1,"['prefer', 'whole', 'slice']"
+kelloggs mueslix cereal,1,"['kellogg', 'mueslix', 'cereal']"
+tastes great pkg says made china wont buy,-1,"['tast', 'great', 'pkg', 'say', 'made', 'china', 'wont', 'buy']"
+great deal,1,"['great', 'deal']"
+great lowfat cholestrol snack,1,"['great', 'lowfat', 'cholestrol', 'snack']"
+tastes like mushy pineapple,-1,"['tast', 'like', 'mushi', 'pineappl']"
+oatmeal,1,['oatmeal']
+great tasting pancake mix,1,"['great', 'tast', 'pancak', 'mix']"
+,-1,[]
+delighted amazoncom,1,"['delight', 'amazoncom']"
+wonderful,1,['wonder']
+delicious tea slight hints almond chocolate overpowering,1,"['delici', 'tea', 'slight', 'hint', 'almond', 'chocol', 'overpow']"
+baby likes one,1,"['babi', 'like', 'one']"
+mmmmm mmmmm,1,"['mmmmm', 'mmmmm']"
+delight says,1,"['delight', 'say']"
+absotively posilutely delicious,1,"['absot', 'posilut', 'delici']"
+great,1,['great']
+one favorites,1,"['one', 'favorit']"
+great color,1,"['great', 'color']"
+works,1,['work']
+popchips,1,['popchip']
+excellent coffee,1,"['excel', 'coffe']"
+sweet soothing,1,"['sweet', 'sooth']"
+theyre madhouse munchies,-1,"['theyr', 'madhous', 'munchi']"
+ woofs,1,['woof']
+great ingredients,1,"['great', 'ingredi']"
+martha white chocolate chocolate muffin mix,1,"['martha', 'white', 'chocol', 'chocol', 'muffin', 'mix']"
+taste great,1,"['tast', 'great']"
+pop  flavor variety pack,1,"['pop', 'flavor', 'varieti', 'pack']"
+great product,1,"['great', 'product']"
+excellent alternative regular gatorade,1,"['excel', 'altern', 'regular', 'gatorad']"
+barbeque perfection,1,"['barbequ', 'perfect']"
+flavor,1,['flavor']
+healthy dog food,1,"['healthi', 'dog', 'food']"
+love love love mueslix,1,"['love', 'love', 'love', 'mueslix']"
+great multiinfusion jasmine dragon pearl green tea,1,"['great', 'multiinfus', 'jasmin', 'dragon', 'pearl', 'green', 'tea']"
+must spoiled,-1,"['must', 'spoil']"
+coffeemate creamer,1,"['coffeem', 'creamer']"
+spam meal,1,"['spam', 'meal']"
+son loves,1,"['son', 'love']"
+able eat bread,1,"['abl', 'eat', 'bread']"
+remembered,1,['rememb']
+completely ripped,-1,"['complet', 'rip']"
+acquired taste,1,"['acquir', 'tast']"
+love product,1,"['love', 'product']"
+corn muffin cornhusker,-1,"['corn', 'muffin', 'cornhusk']"
+yum yum yum,1,"['yum', 'yum', 'yum']"
+scrumptious,1,['scrumptious']
+great guiltless snack,1,"['great', 'guiltless', 'snack']"
+excellent,1,['excel']
+delicious,1,['delici']
+,1,[]
+dirty martini,1,"['dirti', 'martini']"
+yum,1,['yum']
+great product weak packaging,1,"['great', 'product', 'weak', 'packag']"
+great taste  calorie bag,1,"['great', 'tast', 'calori', 'bag']"
+delicious,1,['delici']
+moores marinade gluten low sodium msg free,1,"['moor', 'marinad', 'gluten', 'low', 'sodium', 'msg', 'free']"
+kind potato steak,1,"['kind', 'potato', 'steak']"
+worthy every,1,"['worthi', 'everi']"
+best,1,['best']
+love snack,1,"['love', 'snack']"
+delicious,1,['delici']
+tasted better loose leaf rooibos,1,"['tast', 'better', 'loo', 'leaf', 'rooibo']"
+puppy dogs love,1,"['puppi', 'dog', 'love']"
+liver biscotti rules house,1,"['liver', 'biscotti', 'rule', 'hous']"
+crispy crunchy robust,1,"['crispi', 'crunchi', 'robust']"
+love love love,1,"['love', 'love', 'love']"
+adorable basketmakes nice presentation,1,"['ador', 'basketmak', 'nice', 'present']"
+stonewall kitchen pancake mix,1,"['stonewal', 'kitchen', 'pancak', 'mix']"
+best,1,['best']
+home delivered twizlers,1,"['home', 'deliv', 'twizler']"
+broken creamers,1,"['broken', 'creamer']"
+stale cheap,1,"['stale', 'cheap']"
+beautiful fresh came easrlyv yey,1,"['beauti', 'fresh', 'came', 'easrlyv', 'yey']"
+minty flavor,1,"['minti', 'flavor']"
+excellent dog treats,1,"['excel', 'dog', 'treat']"
+low carb angel food puffs,-1,"['low', 'carb', 'angel', 'food', 'puff']"
+vendor ripped cultures vendors,-1,"['vendor', 'rip', 'cultur', 'vendor']"
+taste thai coconut ginger soup,1,"['tast', 'thai', 'coconut', 'ginger', 'soup']"
+cats love,1,"['cat', 'love']"
+marleys mellow mood lite half tea half lemonade,1,"['marley', 'mellow', 'mood', 'lite', 'half', 'tea', 'half', 'lemonad']"
+great deal convenient,1,"['great', 'deal', 'conveni']"
+variety pack packed lunches,1,"['varieti', 'pack', 'pack', 'lunch']"
+sea salt,1,"['sea', 'salt']"
+low calories high taste,1,"['low', 'calori', 'high', 'tast']"
+never got,-1,"['never', 'got']"
+great source electrolytes,1,"['great', 'sourc', 'electrolyt']"
+allday energy,1,"['allday', 'energi']"
+wonderful breakfast snacks,1,"['wonder', 'breakfast', 'snack']"
+great waffle mix,1,"['great', 'waffl', 'mix']"
+stash premium mint green iced tea powder,-1,"['stash', 'premium', 'mint', 'green', 'ice', 'tea', 'powder']"
+kettle sold horrible,-1,"['kettl', 'sold', 'horribl']"
+poor taste,-1,"['poor', 'tast']"
+great tasty,1,"['great', 'tasti']"
+pop variety,1,"['pop', 'varieti']"
+one best,1,"['one', 'best']"
+hot,-1,['hot']
+great hot sauce,1,"['great', 'hot', 'sauc']"
+great snack,1,"['great', 'snack']"
+oldest soft drink still best,1,"['oldest', 'soft', 'drink', 'still', 'best']"
+dogs love,1,"['dog', 'love']"
+stuff,1,['stuff']
+,1,[]
+costa rican export coffee,1,"['costa', 'rican', 'export', 'coffe']"
+dressing,1,['dress']
+tastes ok bits shells,-1,"['tast', 'ok', 'bit', 'shell']"
+best way buy kcups,1,"['best', 'way', 'buy', 'kcup']"
+great gag gift,1,"['great', 'gag', 'gift']"
+great idea pain open close,-1,"['great', 'idea', 'pain', 'open', 'close']"
+great stuff,1,"['great', 'stuff']"
+please think twice,-1,"['plea', 'think', 'twice']"
+candy,1,['candi']
+uncle rays without much taste,-1,"['uncl', 'ray', 'without', 'much', 'tast']"
+great unique,1,"['great', 'uniqu']"
+pop great,1,"['pop', 'great']"
+royal canin cocker,1,"['royal', 'canin', 'cocker']"
+perfect treat,1,"['perfect', 'treat']"
+great back day teen,1,"['great', 'back', 'day', 'teen']"
+strictly best,1,"['strict', 'best']"
+popchips,1,['popchip']
+summer items,-1,"['summer', 'item']"
+natural energy boost,1,"['natur', 'energi', 'boost']"
+great tasting cocoa powder,1,"['great', 'tast', 'cocoa', 'powder']"
+outrageous,1,['outrag']
+excellent,1,['excel']
+great dessert,1,"['great', 'dessert']"
+dont buy product unless looking shredded coconut,-1,"['dont', 'buy', 'product', 'unless', 'look', 'shred', 'coconut']"
+cereal,1,['cereal']
+lovely,1,['love']
+cuttiest gum century,1,"['cuttiest', 'gum', 'centuri']"
+sweetly satisfying,1,"['sweet', 'satisfi']"
+great natural potatoe low calories,1,"['great', 'natur', 'potato', 'low', 'calori']"
+great alternative fried,1,"['great', 'altern', 'fri']"
+best,1,['best']
+okay weird flavors,-1,"['okay', 'weird', 'flavor']"
+best white gravy,1,"['best', 'white', 'gravi']"
+sugar substitute,1,"['sugar', 'substitut']"
+keeps dentest chair,1,"['keep', 'dentest', 'chair']"
+simply wild chick brown rice cats,1,"['simpli', 'wild', 'chick', 'brown', 'rice', 'cat']"
+never paid much,1,"['never', 'paid', 'much']"
+stuff,1,['stuff']
+bad little hard get used,1,"['bad', 'littl', 'hard', 'get', 'use']"
+mona lisa,-1,"['mona', 'lisa']"
+jarred baby food son ate,1,"['jar', 'babi', 'food', 'son', 'ate']"
+youll go nuts asskickin peanuts,1,"['youll', 'go', 'nut', 'asskickin', 'peanut']"
+potato yummy,1,"['potato', 'yummi']"
+huge success,1,"['huge', 'success']"
+yuck,-1,['yuck']
+,1,[]
+excellent perfect,1,"['excel', 'perfect']"
+altoids,1,['altoid']
+cant go wrong,1,"['cant', 'go', 'wrong']"
+love first bite,1,"['love', 'first', 'bite']"
+altoids mini mints tins,1,"['altoid', 'mini', 'mint', 'tin']"
+kiss salt,1,"['kiss', 'salt']"
+,1,[]
+jacks treats,1,"['jack', 'treat']"
+far,1,['far']
+soda,1,['soda']
+happily home,1,"['happili', 'home']"
+great,1,['great']
+much flavor farts smell like sweet onions,1,"['much', 'flavor', 'fart', 'smell', 'like', 'sweet', 'onion']"
+excellent,1,['excel']
+perversion taste,-1,"['pervers', 'tast']"
+loved tartlets,1,"['love', 'tartlet']"
+nicely packaged serving,1,"['nice', 'packag', 'serv']"
+nice flavorful tea purist black tea addict,1,"['nice', 'flavor', 'tea', 'purist', 'black', 'tea', 'addict']"
+great,1,['great']
+great candy family loved,1,"['great', 'candi', 'famili', 'love']"
+great deal great tea,1,"['great', 'deal', 'great', 'tea']"
+pop chipsyummy,1,"['pop', 'chipsyummi']"
+always fresh,1,"['alway', 'fresh']"
+inside corroded,-1,"['insid', 'corrod']"
+overfried,-1,['overfri']
+pop goodness,1,"['pop', 'good']"
+product great price insane,-1,"['product', 'great', 'price', 'insan']"
+awful,-1,['aw']
+pineapple flavored coconut water indonesia theres something really need,-1,"['pineappl', 'flavor', 'coconut', 'water', 'indonesia', 'there', 'someth', 'realli', 'need']"
+amazing,1,['amaz']
+yummy,1,['yummi']
+great option keeping fruit work,1,"['great', 'option', 'keep', 'fruit', 'work']"
+great snack,1,"['great', 'snack']"
+berry flavor excellent price,1,"['berri', 'flavor', 'excel', 'price']"
+timely delivery,1,"['time', 'deliveri']"
+aunts favorite,1,"['aunt', 'favorit']"
+baby didnt like,-1,"['babi', 'didnt', 'like']"
+nice condiment,1,"['nice', 'condiment']"
+cheese,1,['chees']
+jeremiahs pick great coffee,1,"['jeremiah', 'pick', 'great', 'coffe']"
+perfect sampler milka chocolate,1,"['perfect', 'sampler', 'milka', 'chocol']"
+perfect glutenfree chocolate cookies,1,"['perfect', 'glutenfre', 'chocol', 'cooki']"
+al stash iced teas best still,-1,"['al', 'stash', 'ice', 'tea', 'best', 'still']"
+yummy alternative highfat,1,"['yummi', 'altern', 'highfat']"
+awful,-1,['aw']
+could,-1,['could']
+fabulous,1,['fabul']
+thought exceptional,1,"['thought', 'except']"
+tictacyum,1,['tictacyum']
+never go back senseo pods long available,1,"['never', 'go', 'back', 'senseo', 'pod', 'long', 'avail']"
+disappointment,-1,['disappoint']
+wasting vinegar cucumber shame,1,"['wast', 'vinegar', 'cucumb', 'shame']"
+nice snack,1,"['nice', 'snack']"
+forget molecular gastronomy stuff rockes coffee creamer,1,"['forget', 'molecular', 'gastronomi', 'stuff', 'rock', 'coffe', 'creamer']"
+picky eater loves flavors,1,"['picki', 'eater', 'love', 'flavor']"
+definately  stars deeelicious,1,"['defin', 'star', 'deeelici']"
+perfect english bulldog allergies,1,"['perfect', 'english', 'bulldog', 'allergi']"
+snack choice,1,"['snack', 'choic']"
+surprise,1,['surpris']
+sauce shiznit,1,"['sauc', 'shiznit']"
+soooooo,1,['soooooo']
+dog sheds less,1,"['dog', 'shed', 'le']"
+false advertising,-1,"['fals', 'advertis']"
+best soy sauce ever,1,"['best', 'soy', 'sauc', 'ever']"
+great service,1,"['great', 'servic']"
+awesome deal,1,"['awesom', 'deal']"
+huge hit office,1,"['huge', 'hit', 'offic']"
+best roast ever,1,"['best', 'roast', 'ever']"
+great starting pack,1,"['great', 'start', 'pack']"
+tastes great cheaper locally,1,"['tast', 'great', 'cheaper', 'local']"
+could use,1,"['could', 'use']"
+really,1,['realli']
+excellent,1,['excel']
+one best salsas,1,"['one', 'best', 'salsa']"
+pop,1,['pop']
+fresh tasty,1,"['fresh', 'tasti']"
+wilted hopes,-1,"['wilt', 'hope']"
+fun poppingcrispy sticks dipped chocolate special treat manga fans find local wait till fall,1,"['fun', 'poppingcrispi', 'stick', 'dip', 'chocol', 'special', 'treat', 'manga', 'fan', 'find', 'local', 'wait', 'till', 'fall']"
+basic mix,1,"['basic', 'mix']"
+best waffle mix,1,"['best', 'waffl', 'mix']"
+great flavor shipped fast,1,"['great', 'flavor', 'ship', 'fast']"
+satisfies salty snack craving,1,"['satisfi', 'salti', 'snack', 'crave']"
+worth,-1,['worth']
+delicious alternative greasy traditional,1,"['delici', 'altern', 'greasi', 'tradit']"
+product made china,-1,"['product', 'made', 'china']"
+yorkiepoo loves,1,"['yorkiepoo', 'love']"
+spicy,1,['spici']
+topchips,1,['topchip']
+theyre pretty,1,"['theyr', 'pretti']"
+misleading product want bees use,-1,"['mislead', 'product', 'want', 'bee', 'use']"
+love taro,1,"['love', 'taro']"
+sour,-1,['sour']
+perfect,1,['perfect']
+could give rating onestar,-1,"['could', 'give', 'rate', 'onestar']"
+favorite,1,['favorit']
+product better price elsewhere,1,"['product', 'better', 'price', 'elsewher']"
+,1,[]
+eh,-1,['eh']
+perfect cockers,1,"['perfect', 'cocker']"
+maybe batch,-1,"['mayb', 'batch']"
+stash tea powder review,-1,"['stash', 'tea', 'powder', 'review']"
+garbage,-1,['garbag']
+awful,-1,['aw']
+best ever,1,"['best', 'ever']"
+price correct,-1,"['price', 'correct']"
+great stuff,1,"['great', 'stuff']"
+barb,1,['barb']
+deliciousyet companions wont touch,1,"['deliciousyet', 'companion', 'wont', 'touch']"
+great taste great price,1,"['great', 'tast', 'great', 'price']"
+melts mouth,1,"['melt', 'mouth']"
+makes nasty loose poo,-1,"['make', 'nasti', 'loo', 'poo']"
+say yum,1,"['say', 'yum']"
+people bought meh,-1,"['peopl', 'bought', 'meh']"
+one bite youll become chippoisseur,1,"['one', 'bite', 'youll', 'becom', 'chippoisseur']"
+best coffee,1,"['best', 'coffe']"
+dont defeat purpose eating two bags,1,"['dont', 'defeat', 'purpos', 'eat', 'two', 'bag']"
+easy single lifestyle,1,"['easi', 'singl', 'lifestyl']"
+disappointed first farmhouse pancake,-1,"['disappoint', 'first', 'farmhous', 'pancak']"
+great training,1,"['great', 'train']"
+great hot sauce people run,1,"['great', 'hot', 'sauc', 'peopl', 'run']"
+great tasting snackif get japanese pocky,1,"['great', 'tast', 'snackif', 'get', 'japanes', 'pocki']"
+everyone try least,1,"['everyon', 'tri', 'least']"
+double pleasure,1,"['doubl', 'pleasur']"
+best,1,['best']
+great beans,1,"['great', 'bean']"
+great snack,1,"['great', 'snack']"
+cherry couldnt find stores,1,"['cherri', 'couldnt', 'find', 'store']"
+boy bubble gum,-1,"['boy', 'bubbl', 'gum']"
+cat likes,1,"['cat', 'like']"
+tastes great iced drinks,1,"['tast', 'great', 'ice', 'drink']"
+dogs go crazy,1,"['dog', 'go', 'crazi']"
+like picture,-1,"['like', 'pictur']"
+delicious,1,['delici']
+awesome cereal,1,"['awesom', 'cereal']"
+container could better,1,"['contain', 'could', 'better']"
+orgasmic,1,['orgasm']
+uncle rays kosher dill potato,1,"['uncl', 'ray', 'kosher', 'dill', 'potato']"
+definite pop baked fried,1,"['definit', 'pop', 'bake', 'fri']"
+fabulous amazon,1,"['fabul', 'amazon']"
+quick easy tasty,1,"['quick', 'easi', 'tasti']"
+ stars could yuk yuk yuk,-1,"['star', 'could', 'yuk', 'yuk', 'yuk']"
+yummy tummy,1,"['yummi', 'tummi']"
+true,1,['true']
+would give harmony farms extra stars could,1,"['would', 'give', 'harmoni', 'farm', 'extra', 'star', 'could']"
+perfect ww followers,1,"['perfect', 'ww', 'follow']"
+best pancakes life,1,"['best', 'pancak', 'life']"
+yum,1,['yum']
+yummy,1,['yummi']
+disgusting,-1,['disgust']
+awful taste,-1,"['aw', 'tast']"
+yes real excellent coffee,1,"['yes', 'real', 'excel', 'coffe']"
+great product,1,"['great', 'product']"
+product received actual product may carry health risks comsumers,-1,"['product', 'receiv', 'actual', 'product', 'may', 'carri', 'health', 'risk', 'comsum']"
+weigh  oz  fluid ounces,1,"['weigh', 'oz', 'fluid', 'ounc']"
+yummmmy,1,['yummmmi']
+delicious black jelly beans,1,"['delici', 'black', 'jelli', 'bean']"
+dont waste money,-1,"['dont', 'wast', 'money']"
+uncle rays bbq best,1,"['uncl', 'ray', 'bbq', 'best']"
+great taste convenience,1,"['great', 'tast', 'conveni']"
+didnt well dog,-1,"['didnt', 'well', 'dog']"
+miss salt,1,"['miss', 'salt']"
+mouth strong anus weaker,1,"['mouth', 'strong', 'anus', 'weaker']"
+fantastic,1,['fantast']
+overall,1,['overal']
+best flavor,1,"['best', 'flavor']"
+care liked bbq wondering bestsellers,-1,"['care', 'like', 'bbq', 'wonder', 'bestsel']"
+healthier better tasting option,1,"['healthier', 'better', 'tast', 'option']"
+happy,1,['happi']
+family loved,1,"['famili', 'love']"
+even like kettle love,1,"['even', 'like', 'kettl', 'love']"
+kettle organic chipotle potato,1,"['kettl', 'organ', 'chipotl', 'potato']"
+great idea,1,"['great', 'idea']"
+love,1,['love']
+fanfreakintastic,1,['fanfreakintast']
+rave reviews favorite vegetable,1,"['rave', 'review', 'favorit', 'veget']"
+made china,-1,"['made', 'china']"
+found solution open,-1,"['found', 'solut', 'open']"
+happy pocky sticks,1,"['happi', 'pocki', 'stick']"
+create exquisite cake decorations,1,"['creat', 'exquisit', 'cake', 'decor']"
+burns skin lips,-1,"['burn', 'skin', 'lip']"
+wrong product,-1,"['wrong', 'product']"
+spicy,1,['spici']
+yummy,1,['yummi']
+great irish oatmeal hurry,1,"['great', 'irish', 'oatmeal', 'hurri']"
+one sons favorites,1,"['one', 'son', 'favorit']"
+perfect waffles,1,"['perfect', 'waffl']"
+excellent tea,1,"['excel', 'tea']"
+fantastic chicken noodle soup,1,"['fantast', 'chicken', 'noodl', 'soup']"
+pringles instant coffee stephen baldwin,-1,"['pringl', 'instant', 'coffe', 'stephen', 'baldwin']"
+pocky sticks together,-1,"['pocki', 'stick', 'togeth']"
+best ever,1,"['best', 'ever']"
+tasty perfect sized,1,"['tasti', 'perfect', 'size']"
+cook serve choc fudge pudding,-1,"['cook', 'serv', 'choc', 'fudg', 'pud']"
+hard find tea,1,"['hard', 'find', 'tea']"
+awesome sauce,1,"['awesom', 'sauc']"
+great snack,1,"['great', 'snack']"
+great coffee terrible price,1,"['great', 'coffe', 'terribl', 'price']"
+great product price,1,"['great', 'product', 'price']"
+great product great price,1,"['great', 'product', 'great', 'price']"
+small hard open,-1,"['small', 'hard', 'open']"
+totally fantastic,1,"['total', 'fantast']"
+addictive potato,1,"['addict', 'potato']"
+,1,[]
+delicious,1,['delici']
+loved,1,['love']
+delicious healthy,1,"['delici', 'healthi']"
+ calories yumminess,1,"['calori', 'yummi']"
+yum,1,['yum']
+best canned fruit ever eatten,1,"['best', 'can', 'fruit', 'ever', 'eatten']"
+sons nd favorite dish,1,"['son', 'nd', 'favorit', 'dish']"
+choice,1,['choic']
+perfect size,1,"['perfect', 'size']"
+love colors,1,"['love', 'color']"
+awesome delicious,1,"['awesom', 'delici']"
+big tub salt,1,"['big', 'tub', 'salt']"
+,1,[]
+lovely,1,['love']
+great tasting,1,"['great', 'tast']"
+tasty,1,['tasti']
+avoid seloler,-1,"['avoid', 'selol']"
+like spice get,1,"['like', 'spice', 'get']"
+great hot new flavor,1,"['great', 'hot', 'new', 'flavor']"
+pocky,1,['pocki']
+best snack food,1,"['best', 'snack', 'food']"
+bad,1,['bad']
+fantastic coffee,1,"['fantast', 'coffe']"
+moms dads beware plastic food,-1,"['mom', 'dad', 'bewar', 'plastic', 'food']"
+expected,-1,['expect']
+another great experience amazon,1,"['anoth', 'great', 'experi', 'amazon']"
+great dipping chocolate right microwave,1,"['great', 'dip', 'chocol', 'right', 'microwav']"
+super superfoods super easy,1,"['super', 'superfood', 'super', 'easi']"
+soo,1,['soo']
+glad find  oz size,1,"['glad', 'find', 'oz', 'size']"
+best stevia product ever used,1,"['best', 'stevia', 'product', 'ever', 'use']"
+want gaain twenty pounds control whatsoever buy,1,"['want', 'gaain', 'twenti', 'pound', 'control', 'whatsoev', 'buy']"
+tea flavor,-1,"['tea', 'flavor']"
+love kettle flavor,-1,"['love', 'kettl', 'flavor']"
+fibergourmet light penne,1,"['fibergourmet', 'light', 'penn']"
+excellent,1,['excel']
+palatable healthy,1,"['palat', 'healthi']"
+yummy yummies,1,"['yummi', 'yummi']"
+hope got bad batch,-1,"['hope', 'got', 'bad', 'batch']"
+best tea ever,1,"['best', 'tea', 'ever']"
+city steam much steam brew,-1,"['citi', 'steam', 'much', 'steam', 'brew']"
+roasts smooth brew,1,"['roast', 'smooth', 'brew']"
+pleasedont waste money,-1,"['pleasedont', 'wast', 'money']"
+nice little mints pricey,1,"['nice', 'littl', 'mint', 'pricey']"
+doesnt taste,-1,"['doesnt', 'tast']"
+burnt toast,-1,"['burnt', 'toast']"
+picture misleading,-1,"['pictur', 'mislead']"
+delicious,1,['delici']
+crunch wow,1,"['crunch', 'wow']"
+spectrum naturals walnut oil refined,1,"['spectrum', 'natur', 'walnut', 'oil', 'refin']"
+pop best,1,"['pop', 'best']"
+runny oddtasting,-1,"['runni', 'oddtast']"
+frenchs roastn bags,1,"['french', 'roastn', 'bag']"
+great spicy flavor,1,"['great', 'spici', 'flavor']"
+famous reason,1,"['famous', 'reason']"
+delicious,1,['delici']
+something changed,-1,"['someth', 'chang']"
+delicious easy,1,"['delici', 'easi']"
+price right,1,"['price', 'right']"
+awsome kids neighborhood loved us,1,"['awsom', 'kid', 'neighborhood', 'love', 'u']"
+awful,-1,['aw']
+extremely disappointing,-1,"['extrem', 'disappoint']"
+ingredient list,-1,"['ingredi', 'list']"
+great buy,1,"['great', 'buy']"
+love tasty,1,"['love', 'tasti']"
+healthful treat dogs,1,"['health', 'treat', 'dog']"
+healthy delicious,1,"['healthi', 'delici']"
+stuff,1,['stuff']
+excellent alternative artificial sweetners,1,"['excel', 'altern', 'artifici', 'sweetner']"
+way weak tastes,-1,"['way', 'weak', 'tast']"
+bbq terrific,1,"['bbq', 'terrif']"
+plockys three grain tortilla,1,"['plocki', 'three', 'grain', 'tortilla']"
+disgusting,-1,['disgust']
+shipping,-1,['ship']
+king seasoning salts,1,"['king', 'season', 'salt']"
+college student gourmet,1,"['colleg', 'student', 'gourmet']"
+waffles schmaffles,1,"['waffl', 'schmaffl']"
+crunchy tasty,1,"['crunchi', 'tasti']"
+great bargain price,1,"['great', 'bargain', 'price']"
+disappointed,-1,['disappoint']
+best ahmad tea,1,"['best', 'ahmad', 'tea']"
+excellent productlife saver,1,"['excel', 'productlif', 'saver']"
+smooth coffee highly recommended,1,"['smooth', 'coffe', 'high', 'recommend']"
+cheap imitation buy,-1,"['cheap', 'imit', 'buy']"
+love pop,1,"['love', 'pop']"
+great tasting sea salt iodine,1,"['great', 'tast', 'sea', 'salt', 'iodin']"
+damaged merchandise,-1,"['damag', 'merchandis']"
+tastes,1,['tast']
+great choice little dogs,1,"['great', 'choic', 'littl', 'dog']"
+scottie,1,['scotti']
+wonderful food perfect allergic kitties,1,"['wonder', 'food', 'perfect', 'allerg', 'kitti']"
+great gum,1,"['great', 'gum']"
+great product,1,"['great', 'product']"
+chocolate heaven,1,"['chocol', 'heaven']"
+great candy,1,"['great', 'candi']"
+taters,1,['tater']
+favorite earl grey tea,1,"['favorit', 'earl', 'grey', 'tea']"
+warning reviews reflect actual product feb  ,-1,"['warn', 'review', 'reflect', 'actual', 'product', 'feb']"
+pretty expensive,1,"['pretti', 'expens']"
+really,1,['realli']
+ricore forever,1,"['ricor', 'forev']"
+product terrible agricultural practices,1,"['product', 'terribl', 'agricultur', 'practic']"
+oily lacks flavor,-1,"['oili', 'lack', 'flavor']"
+addictive,1,['addict']
+stylish saver,1,"['stylish', 'saver']"
+great tea price,1,"['great', 'tea', 'price']"
+like taste,-1,"['like', 'tast']"
+best energy shot,1,"['best', 'energi', 'shot']"
+coffee,1,['coffe']
+yummy,1,['yummi']
+expensive online,1,"['expens', 'onlin']"
+great snack,1,"['great', 'snack']"
+one bite youll become chippoisseur,1,"['one', 'bite', 'youll', 'becom', 'chippoisseur']"
+great way order,1,"['great', 'way', 'order']"
+best,1,['best']
+sassafrass tea,1,"['sassafras', 'tea']"
+great taste size smaller,1,"['great', 'tast', 'size', 'smaller']"
+loved,1,['love']
+salt vinegar,-1,"['salt', 'vinegar']"
+excellent coffee,1,"['excel', 'coffe']"
+broken bottle bottoms,-1,"['broken', 'bottl', 'bottom']"
+weird flavors,-1,"['weird', 'flavor']"
+taste average insanely expensive,-1,"['tast', 'averag', 'insan', 'expens']"
+pop,1,['pop']
+,-1,[]
+training treat,1,"['train', 'treat']"
+yummy,1,['yummi']
+delicious hard find,1,"['delici', 'hard', 'find']"
+incorrect packaging,-1,"['incorrect', 'packag']"
+salt vinegar bbq rock,1,"['salt', 'vinegar', 'bbq', 'rock']"
+surprising find,1,"['surpris', 'find']"
+delicious right amount,1,"['delici', 'right', 'amount']"
+everyone love,1,"['everyon', 'love']"
+tasty,-1,['tasti']
+another husband favorite,1,"['anoth', 'husband', 'favorit']"
+much,-1,['much']
+surprised layer fat top contents,-1,"['surpris', 'layer', 'fat', 'top', 'content']"
+thai green curry,1,"['thai', 'green', 'curri']"
+best belgian waffles time,1,"['best', 'belgian', 'waffl', 'time']"
+lucys treats,1,"['luci', 'treat']"
+chicken noodle,1,"['chicken', 'noodl']"
+popchips new favorite snack,1,"['popchip', 'new', 'favorit', 'snack']"
+amazing taste best ever,1,"['amaz', 'tast', 'best', 'ever']"
+big disappointment,-1,"['big', 'disappoint']"
+fan,-1,['fan']
+best,1,['best']
+awesome stuff,1,"['awesom', 'stuff']"
+makes everything better,1,"['make', 'everyth', 'better']"
+delicious,1,['delici']
+unique flavor fans thai food,1,"['uniqu', 'flavor', 'fan', 'thai', 'food']"
+pancakes lots work,1,"['pancak', 'lot', 'work']"
+yummm,1,['yummm']
+bleh cane juice rd ingred list,-1,"['bleh', 'cane', 'juic', 'rd', 'ingr', 'list']"
+stuff sooooo,1,"['stuff', 'sooooo']"
+great stuff,1,"['great', 'stuff']"
+happened recipe changed,-1,"['happen', 'recip', 'chang']"
+great substitute,1,"['great', 'substitut']"
+spicy thai,1,"['spici', 'thai']"
+way weak tastes,-1,"['way', 'weak', 'tast']"
+caramel chocolate,1,"['caramel', 'chocol']"
+lover,1,['lover']
+delicious,1,['delici']
+hard find cereal found,1,"['hard', 'find', 'cereal', 'found']"
+needs salsa taste,1,"['need', 'salsa', 'tast']"
+tic tac,1,"['tic', 'tac']"
+licorice,1,['licoric']
+firm quality,1,"['firm', 'qualiti']"
+better anything supermarket,1,"['better', 'anyth', 'supermarket']"
+snob alert,1,"['snob', 'alert']"
+buying,1,['buy']
+delicious,1,['delici']
+yummy,1,['yummi']
+,1,[]
+realemon juice amazon,1,"['realemon', 'juic', 'amazon']"
+bags salt added,-1,"['bag', 'salt', 'ad']"
+geat product,1,"['geat', 'product']"
+yuck,-1,['yuck']
+stonewall kitchen pancake waffle mix grrrrrreat,1,"['stonewal', 'kitchen', 'pancak', 'waffl', 'mix', 'grrrrrreat']"
+sweet salty tangy way snack,1,"['sweet', 'salti', 'tangi', 'way', 'snack']"
+edible,-1,['edibl']
+great dog food,1,"['great', 'dog', 'food']"
+taste,1,['tast']
+,1,[]
+love stuff,1,"['love', 'stuff']"
+caramel fantastic,1,"['caramel', 'fantast']"
+great gummi,1,"['great', 'gummi']"
+deeeelicious,1,['deeeelici']
+fun game,1,"['fun', 'game']"
+best,1,['best']
+false advertising,-1,"['fals', 'advertis']"
+caveat emptor disappointing,-1,"['caveat', 'emptor', 'disappoint']"
+pretty delicious,1,"['pretti', 'delici']"
+put sleep,-1,"['put', 'sleep']"
+organic label misleading,-1,"['organ', 'label', 'mislead']"
+halfempty cans greasy inconsistent ingredients,-1,"['halfempti', 'can', 'greasi', 'inconsist', 'ingredi']"
+best vanilla custard ever,1,"['best', 'vanilla', 'custard', 'ever']"
+family breakfast grand kids kids  us,1,"['famili', 'breakfast', 'grand', 'kid', 'kid', 'u']"
+great taste,1,"['great', 'tast']"
+great tasting little treats,1,"['great', 'tast', 'littl', 'treat']"
+jittery lacks body,-1,"['jitteri', 'lack', 'bodi']"
+make day,1,"['make', 'day']"
+solves colic within one day corn syrupbased,-1,"['solv', 'colic', 'within', 'one', 'day', 'corn', 'syrupbas']"
+taste terrible way strong,-1,"['tast', 'terribl', 'way', 'strong']"
+make best baby food,1,"['make', 'best', 'babi', 'food']"
+standard,-1,['standard']
+standard,-1,['standard']
+product,1,['product']
+best tea ever,1,"['best', 'tea', 'ever']"
+absolutely delicious,1,"['absolut', 'delici']"
+true classic custard authentic yummy english trifle,1,"['true', 'classic', 'custard', 'authent', 'yummi', 'english', 'trifl']"
+love,1,['love']
+convenience low cost,1,"['conveni', 'low', 'cost']"
+little sweet,-1,"['littl', 'sweet']"
+best mint,1,"['best', 'mint']"
+great price quality caviar,1,"['great', 'price', 'qualiti', 'caviar']"
+sweet nice kick,1,"['sweet', 'nice', 'kick']"
+disappointing,-1,['disappoint']
+great snack,1,"['great', 'snack']"
+money,1,['money']
+delicious imo helps weight loss,1,"['delici', 'imo', 'help', 'weight', 'loss']"
+expired stock,-1,"['expir', 'stock']"
+absolutely love,1,"['absolut', 'love']"
+mmmmmmmsooo,1,['mmmmmmmsooo']
+best,1,['best']
+lots twizzlers expect,1,"['lot', 'twizzler', 'expect']"
+tasty easy make,1,"['tasti', 'easi', 'make']"
+sooo tasty,1,"['sooo', 'tasti']"
+cute cute cute,1,"['cute', 'cute', 'cute']"
+far favorite,1,"['far', 'favorit']"
+fan,1,['fan']
+yummy,1,['yummi']
+eat without feeling guilty,1,"['eat', 'without', 'feel', 'guilti']"
+excellent thaiflavored,1,"['excel', 'thaiflavor']"
+babys favorite dinner,1,"['babi', 'favorit', 'dinner']"
+love salsa,1,"['love', 'salsa']"
+best energy shot ever tasted,1,"['best', 'energi', 'shot', 'ever', 'tast']"
+rave review rolled oats,1,"['rave', 'review', 'roll', 'oat']"
+flavor getting better energy great,1,"['flavor', 'get', 'better', 'energi', 'great']"
+great,1,['great']
+ships apo,1,"['ship', 'apo']"
+happened,-1,['happen']
+absolutely awesome,1,"['absolut', 'awesom']"
+nothing special,-1,"['noth', 'special']"
+artificial flavor,-1,"['artifici', 'flavor']"
+great calorie cutter,1,"['great', 'calori', 'cutter']"
+excellent,1,['excel']
+small,1,['small']
+bacon supposed,1,"['bacon', 'suppos']"
+delicious always,1,"['delici', 'alway']"
+berry flavor,1,"['berri', 'flavor']"
+zesty spiced,1,"['zesti', 'spice']"
+unique schrumshist tasty tortilla,1,"['uniqu', 'schrumshist', 'tasti', 'tortilla']"
+ lives daily essentials  pound bag cat food food price,1,"['live', 'daili', 'essenti', 'pound', 'bag', 'cat', 'food', 'food', 'price']"
+great bars glutenfree diets,1,"['great', 'bar', 'glutenfre', 'diet']"
+like tiny light flavored peanut halves,1,"['like', 'tini', 'light', 'flavor', 'peanut', 'halv']"
+lifesaver,1,['lifesav']
+awful,-1,['aw']
+makes quicktasty martini,1,"['make', 'quicktasti', 'martini']"
+wish bone fat free ranch dressing,1,"['wish', 'bone', 'fat', 'free', 'ranch', 'dress']"
+best twice baked potatoes youll ever,1,"['best', 'twice', 'bake', 'potato', 'youll', 'ever']"
+morton sea salt,1,"['morton', 'sea', 'salt']"
+mostly dry,-1,"['most', 'dri']"
+great,1,['great']
+disgusting,-1,['disgust']
+avoid like plaguecontains product killing honeybees,-1,"['avoid', 'like', 'plaguecontain', 'product', 'kill', 'honeybe']"
+great fat cats senior citizens,1,"['great', 'fat', 'cat', 'senior', 'citizen']"
+different flavor,1,"['differ', 'flavor']"
+tea okay teabag isnt,-1,"['tea', 'okay', 'teabag', 'isnt']"
+health,1,['health']
+huge fan,1,"['huge', 'fan']"
+great,1,['great']
+one best sweet hot sauces,1,"['one', 'best', 'sweet', 'hot', 'sauc']"
+love pop,1,"['love', 'pop']"
+great product,1,"['great', 'product']"
+tangy,-1,['tangi']
+needs bigger splash,-1,"['need', 'bigger', 'splash']"
+banana runts,-1,"['banana', 'runt']"
+great dog food,1,"['great', 'dog', 'food']"
+fresh fruit dark chocolate,1,"['fresh', 'fruit', 'dark', 'chocol']"
+best,1,['best']
+great healthy snack,1,"['great', 'healthi', 'snack']"
+best ever,1,"['best', 'ever']"
+perfect tortilla goodness,1,"['perfect', 'tortilla', 'good']"
+tea review,1,"['tea', 'review']"
+used favorite,-1,"['use', 'favorit']"
+kleri tea works great,1,"['kleri', 'tea', 'work', 'great']"
+great great flavor,1,"['great', 'great', 'flavor']"
+stale rancid oil taste like even tiniest bit salt flavor,-1,"['stale', 'rancid', 'oil', 'tast', 'like', 'even', 'tiniest', 'bit', 'salt', 'flavor']"
+popchips,1,['popchip']
+oooh yummy,1,"['oooh', 'yummi']"
+delicious product,1,"['delici', 'product']"
+confused,-1,['confus']
+,-1,[]
+like gamble buying st pattys dried fruit basket crapshoot,-1,"['like', 'gambl', 'buy', 'st', 'patti', 'dri', 'fruit', 'basket', 'crapshoot']"
+msg ham base,-1,"['msg', 'ham', 'base']"
+great taste health benefits,1,"['great', 'tast', 'health', 'benefit']"
+ketchup powdery coating excessive overdone gritty,-1,"['ketchup', 'powderi', 'coat', 'excess', 'overdon', 'gritti']"
+baby loves plastic,-1,"['babi', 'love', 'plastic']"
+super delicious,1,"['super', 'delici']"
+dont get order,-1,"['dont', 'get', 'order']"
+makes excellent biryani,1,"['make', 'excel', 'biryani']"
+caution kettle addictive,1,"['caution', 'kettl', 'addict']"
+next time wont order variety pack,1,"['next', 'time', 'wont', 'order', 'varieti', 'pack']"
+laxative,-1,['laxat']
+guests love,1,"['guest', 'love']"
+crunchy spicy,1,"['crunchi', 'spici']"
+love,1,['love']
+yummy,1,['yummi']
+popchips,1,['popchip']
+quality delivered time human edible,1,"['qualiti', 'deliv', 'time', 'human', 'edibl']"
+get salt pepper box instead,-1,"['get', 'salt', 'pepper', 'box', 'instead']"
+flavor authentic,-1,"['flavor', 'authent']"
+tasten tea,1,"['tasten', 'tea']"
+detailed reply company infant feeding dhaara,1,"['detail', 'repli', 'compani', 'infant', 'feed', 'dhaara']"
+excellent tortilla,1,"['excel', 'tortilla']"
+edible,-1,['edibl']
+best sweets,1,"['best', 'sweet']"
+service,1,['servic']
+god love cookies,1,"['god', 'love', 'cooki']"
+stale beware buying special,-1,"['stale', 'bewar', 'buy', 'special']"
+delicious,1,['delici']
+great taste healthy cereal,1,"['great', 'tast', 'healthi', 'cereal']"
+best widely available bbq,1,"['best', 'wide', 'avail', 'bbq']"
+pop great,1,"['pop', 'great']"
+ stars price taste,1,"['star', 'price', 'tast']"
+great taste,1,"['great', 'tast']"
+great,1,['great']
+low calorie tasty snack,1,"['low', 'calori', 'tasti', 'snack']"
+yummy treats,1,"['yummi', 'treat']"
+simple convenient,1,"['simpl', 'conveni']"
+swedish pearl belgian pearl,1,"['swedish', 'pearl', 'belgian', 'pearl']"
+  decafdisapointed,-1,['decafdisapoint']
+real tea,-1,"['real', 'tea']"
+strawberry twizzlers yummy,1,"['strawberri', 'twizzler', 'yummi']"
+buble gun cigarsreal cigars might tasted better,-1,"['bubl', 'gun', 'cigarsr', 'cigar', 'might', 'tast', 'better']"
+g rock,1,"['g', 'rock']"
+superior product gmo free,1,"['superior', 'product', 'gmo', 'free']"
+best tea,1,"['best', 'tea']"
+beautiful presentation pretty tea,1,"['beauti', 'present', 'pretti', 'tea']"
+best kettle,1,"['best', 'kettl']"
+perfect size,1,"['perfect', 'size']"
+worth cost due unique flavor favorite sugar,1,"['worth', 'cost', 'due', 'uniqu', 'flavor', 'favorit', 'sugar']"
+best around,1,"['best', 'around']"
+rocket bottle,1,"['rocket', 'bottl']"
+break easily,-1,"['break', 'easili']"
+k,-1,['k']
+love fresh food feeder,1,"['love', 'fresh', 'food', 'feeder']"
+toss   jars,-1,"['toss', 'jar']"
+excellent,1,['excel']
+quite,1,['quit']
+pop chipslove,1,"['pop', 'chipslov']"
+best instant oatmeals,1,"['best', 'instant', 'oatmeal']"
+om nom nom nom,1,"['om', 'nom', 'nom', 'nom']"
+awful,-1,['aw']
+curry paste,1,"['curri', 'past']"
+dirty martini olive juice,1,"['dirti', 'martini', 'oliv', 'juic']"
+quick easy delicious,1,"['quick', 'easi', 'delici']"
+love,1,['love']
+great low sodium,1,"['great', 'low', 'sodium']"
+best ever,1,"['best', 'ever']"
+best hot sauce around,1,"['best', 'hot', 'sauc', 'around']"
+yum,1,['yum']
+simple,1,['simpl']
+bad,1,['bad']
+dissapointed,-1,['dissapoint']
+perfect work,1,"['perfect', 'work']"
+noodles,-1,['noodl']
+stonewall pancake waffle mix,1,"['stonewal', 'pancak', 'waffl', 'mix']"
+sure dont taste like ketchup,-1,"['sure', 'dont', 'tast', 'like', 'ketchup']"
+miracle,1,['miracl']
+crunch light taste,1,"['crunch', 'light', 'tast']"
+hot breakfast,1,"['hot', 'breakfast']"
+best tea ever freah bright clean,1,"['best', 'tea', 'ever', 'freah', 'bright', 'clean']"
+yum,1,['yum']
+waste money,-1,"['wast', 'money']"
+applesauce spice cake,1,"['applesauc', 'spice', 'cake']"
+bring back right cereal,1,"['bring', 'back', 'right', 'cereal']"
+valentine gift winner,1,"['valentin', 'gift', 'winner']"
+give watermelon citron sea salt,1,"['give', 'watermelon', 'citron', 'sea', 'salt']"
+tangy spicy sweet oh,1,"['tangi', 'spici', 'sweet', 'oh']"
+cat wont go near,-1,"['cat', 'wont', 'go', 'near']"
+healthy stuff,1,"['healthi', 'stuff']"
+great sweetener,1,"['great', 'sweeten']"
+tasty easy,1,"['tasti', 'easi']"
+disapointed,-1,['disapoint']
+big pods great value delicious decaf coffee,1,"['big', 'pod', 'great', 'valu', 'delici', 'decaf', 'coffe']"
+caution poorly balanced nutrition,-1,"['caution', 'poor', 'balanc', 'nutrit']"
+poor item packaging,-1,"['poor', 'item', 'packag']"
+best coffee ever,1,"['best', 'coffe', 'ever']"
+spicy thai,1,"['spici', 'thai']"
+first ingredient corn syrup,-1,"['first', 'ingredi', 'corn', 'syrup']"
+highly recomended,1,"['high', 'recomend']"
+stuffed baked potatoes,1,"['stuf', 'bake', 'potato']"
+excellent exactly expected,1,"['excel', 'exact', 'expect']"
+popchips best,1,"['popchip', 'best']"
+best sour cream onion ive,1,"['best', 'sour', 'cream', 'onion', 'ive']"
+dog likes great value,1,"['dog', 'like', 'great', 'valu']"
+reeks like chemicals,-1,"['reek', 'like', 'chemic']"
+really stuff,1,"['realli', 'stuff']"
+much better milk chocolate,1,"['much', 'better', 'milk', 'chocol']"
+,-1,[]
+stonewall pancake mix,1,"['stonewal', 'pancak', 'mix']"
+unsatisfied,-1,['unsatisfi']
+great,1,['great']
+pudding,1,['pud']
+strong flavors,-1,"['strong', 'flavor']"
+processed taste,-1,"['process', 'tast']"
+none greater,1,"['none', 'greater']"
+like countries cadbury,-1,"['like', 'countri', 'cadburi']"
+nice pantry,1,"['nice', 'pantri']"
+holistic select cat food,1,"['holist', 'select', 'cat', 'food']"
+great product,1,"['great', 'product']"
+addicted,1,['addict']
+nearly killed cats,-1,"['near', 'kill', 'cat']"
+horrible dont buy,-1,"['horribl', 'dont', 'buy']"
+c h pc h ph r b c k r db r b e c u e,1,"['c', 'h', 'pc', 'h', 'ph', 'r', 'b', 'c', 'k', 'r', 'db', 'r', 'b', 'e', 'c', 'u', 'e']"
+yeeeee hawww,1,"['yeeeee', 'hawww']"
+baby liked,1,"['babi', 'like']"
+excellent flavor mostly large pieces,1,"['excel', 'flavor', 'most', 'larg', 'piec']"
+uncle rays barbeque,1,"['uncl', 'ray', 'barbequ']"
+far donut shop classics best pods ive tried,1,"['far', 'donut', 'shop', 'classic', 'best', 'pod', 'ive', 'tri']"
+crab cakes delight,1,"['crab', 'cake', 'delight']"
+great price tangy expected,1,"['great', 'price', 'tangi', 'expect']"
+love mueslix,1,"['love', 'mueslix']"
+cats love diet food better regular food,1,"['cat', 'love', 'diet', 'food', 'better', 'regular', 'food']"
+love reusable containers,1,"['love', 'reusabl', 'contain']"
+love popchips,1,"['love', 'popchip']"
+omg cookies,1,"['omg', 'cooki']"
+wow make slickers,1,"['wow', 'make', 'slicker']"
+great mix,1,"['great', 'mix']"
+tasting cup joe,1,"['tast', 'cup', 'joe']"
+,1,[]
+great food,1,"['great', 'food']"
+egg allergy,1,"['egg', 'allergi']"
+great energy,1,"['great', 'energi']"
+delicious extra crunchy,1,"['delici', 'extra', 'crunchi']"
+pop crisps,1,"['pop', 'crisp']"
+great item,1,"['great', 'item']"
+best stuff ever,1,"['best', 'stuff', 'ever']"
+wonderful cookies,1,"['wonder', 'cooki']"
+one bite youll become chippoisseur,1,"['one', 'bite', 'youll', 'becom', 'chippoisseur']"
+buster loves dog food,1,"['buster', 'love', 'dog', 'food']"
+great losing weight,1,"['great', 'lose', 'weight']"
+horrible,-1,['horribl']
+dog loves food,1,"['dog', 'love', 'food']"
+white stevia  oz pwdr,1,"['white', 'stevia', 'oz', 'pwdr']"
+tons flavor spicy excellent,1,"['ton', 'flavor', 'spici', 'excel']"
+twizzlers,1,['twizzler']
+perfect cat food older cats,1,"['perfect', 'cat', 'food', 'older', 'cat']"
+zippy,1,['zippi']
+rich j wyzykoski,1,"['rich', 'j', 'wyzykoski']"
+excellent lemon juice,1,"['excel', 'lemon', 'juic']"
+much red dye little taste greatlol,-1,"['much', 'red', 'dye', 'littl', 'tast', 'greatlol']"
+popchips wonderfully tasty,1,"['popchip', 'wonder', 'tasti']"
+best,1,['best']
+dont stop carrying,1,"['dont', 'stop', 'carri']"
+way better guayaki,1,"['way', 'better', 'guayaki']"
+dented cans,-1,"['dent', 'can']"
+best tassimos,1,"['best', 'tassimo']"
+wouldnt bother,-1,"['wouldnt', 'bother']"
+ cents,1,['cent']
+great tasting green tea great deal,1,"['great', 'tast', 'green', 'tea', 'great', 'deal']"
+odd fake flavor recommended,-1,"['odd', 'fake', 'flavor', 'recommend']"
+treat best coffee,1,"['treat', 'best', 'coffe']"
+fantastic healthy product,1,"['fantast', 'healthi', 'product']"
+great,-1,['great']
+great around mix,1,"['great', 'around', 'mix']"
+delisious pancakes,1,"['delisi', 'pancak']"
+best tasting stevia,1,"['best', 'tast', 'stevia']"
+great taste crunchy,1,"['great', 'tast', 'crunchi']"
+great customer service,1,"['great', 'custom', 'servic']"
+really tasty others little chemical tasting,1,"['realli', 'tasti', 'other', 'littl', 'chemic', 'tast']"
+great food,1,"['great', 'food']"
+yummy,1,['yummi']
+cant detect prickly pear,-1,"['cant', 'detect', 'prick', 'pear']"
+buy frosting,-1,"['buy', 'frost']"
+delicous,1,['delic']
+baking soda bomb,1,"['bake', 'soda', 'bomb']"
+keeps basil countercat proof,1,"['keep', 'basil', 'countercat', 'proof']"
+yum,1,['yum']
+maple syrup,1,"['mapl', 'syrup']"
+best stevia,1,"['best', 'stevia']"
+unsatisfied,-1,['unsatisfi']
+ cans terribly banged dented,-1,"['can', 'terribl', 'bang', 'dent']"
+best,1,['best']
+dog loves,1,"['dog', 'love']"
+loved,1,['love']
+choclate,1,['choclat']
+overrated,-1,['overr']
+tasty hot sauce,1,"['tasti', 'hot', 'sauc']"
+ points plus weight watchers,1,"['point', 'plus', 'weight', 'watcher']"
+got chest cold nasty cough,-1,"['got', 'chest', 'cold', 'nasti', 'cough']"
+,-1,[]
+nunaturals nustevia great,1,"['nunatur', 'nustevia', 'great']"
+great sauce,1,"['great', 'sauc']"
+worth money,1,"['worth', 'money']"
+best ever,1,"['best', 'ever']"
+thing great,1,"['thing', 'great']"
+darn,1,['darn']
+eating years,1,"['eat', 'year']"
+yoli,1,['yoli']
+cat hates,-1,"['cat', 'hate']"
+convenient far better instant coffee,1,"['conveni', 'far', 'better', 'instant', 'coffe']"
+award winning awesome flavour,1,"['award', 'win', 'awesom', 'flavour']"
+perfectly naturally sweet,1,"['perfect', 'natur', 'sweet']"
+salt kettle,1,"['salt', 'kettl']"
+get store,1,"['get', 'store']"
+great kids,1,"['great', 'kid']"
+dum dums,1,"['dum', 'dum']"
+love pop,1,"['love', 'pop']"
+favorite ramen,1,"['favorit', 'ramen']"
+also look packets,1,"['also', 'look', 'packet']"
+make dog happy,1,"['make', 'dog', 'happi']"
+hard find locally,1,"['hard', 'find', 'local']"
+low carb alternative gatorade,1,"['low', 'carb', 'altern', 'gatorad']"
+great deal,1,"['great', 'deal']"
+health food china doubtful,-1,"['health', 'food', 'china', 'doubt']"
+oatmeal im second bag,1,"['oatmeal', 'im', 'second', 'bag']"
+impossible find,1,"['imposs', 'find']"
+vintage tasting coffee,1,"['vintag', 'tast', 'coffe']"
+tea bad bag,1,"['tea', 'bad', 'bag']"
+delicious,1,['delici']
+favorite kettle flavor great value,1,"['favorit', 'kettl', 'flavor', 'great', 'valu']"
+quick arrival great basket,1,"['quick', 'arriv', 'great', 'basket']"
+rudolph gingerbread house,1,"['rudolph', 'gingerbread', 'hous']"
+smells like heaven,1,"['smell', 'like', 'heaven']"
+def buy,1,"['def', 'buy']"
+rosey,-1,['rosey']
+delicious waffles,1,"['delici', 'waffl']"
+nice strength maybe much vanilla,1,"['nice', 'strength', 'mayb', 'much', 'vanilla']"
+margherita pizza,1,"['margherita', 'pizza']"
+tastes awesome looks beautiful,1,"['tast', 'awesom', 'look', 'beauti']"
+pretty could better,1,"['pretti', 'could', 'better']"
+awful barely describe,-1,"['aw', 'bare', 'describ']"
+food,1,['food']
+altoids smalls,-1,"['altoid', 'small']"
+spray garlic,1,"['spray', 'garlic']"
+short sweet,1,"['short', 'sweet']"
+son like,-1,"['son', 'like']"
+great taste honestly goes inside read,-1,"['great', 'tast', 'honest', 'goe', 'insid', 'read']"
+delicious,1,['delici']
+pop rock,1,"['pop', 'rock']"
+addictive,1,['addict']
+altoids smallswintergreen,1,"['altoid', 'smallswintergreen']"
+best friend treats,1,"['best', 'friend', 'treat']"
+disappointing,-1,['disappoint']
+yum,1,['yum']
+yummy,1,['yummi']
+idea diet food,1,"['idea', 'diet', 'food']"
+satisfying,1,['satisfi']
+olive juice,-1,"['oliv', 'juic']"
+love stonewall kitchen,1,"['love', 'stonewal', 'kitchen']"
+kettle,-1,['kettl']
+ham base,1,"['ham', 'base']"
+k cups come packages,-1,"['k', 'cup', 'come', 'packag']"
+best anywhere,1,"['best', 'anywher']"
+convenient,1,['conveni']
+false advertising,-1,"['fals', 'advertis']"
+excellent,1,['excel']
+delicious tea,1,"['delici', 'tea']"
+excellent choice belgian waffles,1,"['excel', 'choic', 'belgian', 'waffl']"
+taste,-1,['tast']
+expensive worth,1,"['expens', 'worth']"
+yummy,1,['yummi']
+doesnt taste,-1,"['doesnt', 'tast']"
+perkerupper,1,['perkerupp']
+healthy love,1,"['healthi', 'love']"
+one favoritte foods,1,"['one', 'favoritt', 'food']"
+delicious,1,['delici']
+really gluten free,1,"['realli', 'gluten', 'free']"
+chocolate go wrong,1,"['chocol', 'go', 'wrong']"
+great taste less sodium,1,"['great', 'tast', 'le', 'sodium']"
+candy tree organic cherry bites,1,"['candi', 'tree', 'organ', 'cherri', 'bite']"
+yummy,1,['yummi']
+thats spicy,1,"['that', 'spici']"
+snacker,1,['snacker']
+excellent,1,['excel']
+bigger brands,1,"['bigger', 'brand']"
+caramel flavor excellent baking toppings tips using agave,1,"['caramel', 'flavor', 'excel', 'bake', 'top', 'tip', 'use', 'agav']"
+sweet stuff,1,"['sweet', 'stuff']"
+favorite breakfast choice,1,"['favorit', 'breakfast', 'choic']"
+lightly salted heavily delicious,1,"['light', 'salt', 'heavili', 'delici']"
+dog loves,1,"['dog', 'love']"
+meh,-1,['meh']
+great crunch solution,1,"['great', 'crunch', 'solut']"
+damaged cans,-1,"['damag', 'can']"
+didnt receive ordered,1,"['didnt', 'receiv', 'order']"
+excellent product,1,"['excel', 'product']"
+plockys rice beans tortilla,1,"['plocki', 'rice', 'bean', 'tortilla']"
+mints awesome,1,"['mint', 'awesom']"
+best tea ever,1,"['best', 'tea', 'ever']"
+pop rule,1,"['pop', 'rule']"
+love stuff,1,"['love', 'stuff']"
+ideal breakfast,1,"['ideal', 'breakfast']"
+favorite energy shot natural,1,"['favorit', 'energi', 'shot', 'natur']"
+dont bother,-1,"['dont', 'bother']"
+quality dog food delivered door,1,"['qualiti', 'dog', 'food', 'deliv', 'door']"
+cats love,1,"['cat', 'love']"
+great taste,1,"['great', 'tast']"
+gourmet powerful salt vinegar,1,"['gourmet', 'power', 'salt', 'vinegar']"
+antioxidant smoothie,1,"['antioxid', 'smoothi']"
+dop really,-1,"['dop', 'realli']"
+great product,1,"['great', 'product']"
+best cheetos,1,"['best', 'cheeto']"
+better packaging,1,"['better', 'packag']"
+sons favorite dinner,1,"['son', 'favorit', 'dinner']"
+caf taste either,-1,"['caf', 'tast', 'either']"
+wonderful tasty taffy,1,"['wonder', 'tasti', 'taffi']"
+great stuff,1,"['great', 'stuff']"
+deliciously scrumptious,1,"['delici', 'scrumptious']"
+enjoyable green tea,1,"['enjoy', 'green', 'tea']"
+better taste expected,1,"['better', 'tast', 'expect']"
+didnt like,-1,"['didnt', 'like']"
+au gratin potatoes,1,"['au', 'gratin', 'potato']"
+,1,[]
+wow great deal lovelove love it,1,"['wow', 'great', 'deal', 'lovelov', 'love', 'it']"
+great gluten free quick fix meal,1,"['great', 'gluten', 'free', 'quick', 'fix', 'meal']"
+potent,1,['potent']
+great product real garlic juice,1,"['great', 'product', 'real', 'garlic', 'juic']"
+cats fans new food,-1,"['cat', 'fan', 'new', 'food']"
+love love love,1,"['love', 'love', 'love']"
+little mint,1,"['littl', 'mint']"
+tasty,1,['tasti']
+poor quality product,-1,"['poor', 'qualiti', 'product']"
+great teething,1,"['great', 'teeth']"
+great snack,1,"['great', 'snack']"
+order,1,['order']
+formula terrible,-1,"['formula', 'terribl']"
+awesome,1,['awesom']
+non gmo,1,"['non', 'gmo']"
+popchips satisfy salt crunch craving,1,"['popchip', 'satisfi', 'salt', 'crunch', 'crave']"
+flour glutenfree baking,1,"['flour', 'glutenfre', 'bake']"
+non alcoholic,1,"['non', 'alcohol']"
+favorite cereal,1,"['favorit', 'cereal']"
+made michigan since ,1,"['made', 'michigan', 'sinc']"
+way try different flavors,1,"['way', 'tri', 'differ', 'flavor']"
+delicious even dont enjoy healthy food,1,"['delici', 'even', 'dont', 'enjoy', 'healthi', 'food']"
+crushed leaves,-1,"['crush', 'leav']"
+twizzlers strawberry,1,"['twizzler', 'strawberri']"
+great deal,1,"['great', 'deal']"
+organic yummy ask,1,"['organ', 'yummi', 'ask']"
+awesome sugar,1,"['awesom', 'sugar']"
+equidorian ojio arriba carillo raw oranic cacao,1,"['equidorian', 'ojio', 'arriba', 'carillo', 'raw', 'oran', 'cacao']"
+best waffle mix life,1,"['best', 'waffl', 'mix', 'life']"
+franchs best,1,"['franch', 'best']"
+best ive ever,1,"['best', 'ive', 'ever']"
+one twice came broken,-1,"['one', 'twice', 'came', 'broken']"
+next best thing fresh tomatoes,1,"['next', 'best', 'thing', 'fresh', 'tomato']"
+excellent green tea,1,"['excel', 'green', 'tea']"
+sooo,1,['sooo']
+happy dogs,1,"['happi', 'dog']"
+candy,1,['candi']
+love love love,1,"['love', 'love', 'love']"
+bags damaged holes stains,-1,"['bag', 'damag', 'hole', 'stain']"
+great caramels,1,"['great', 'caramel']"
+price product,1,"['price', 'product']"
+different taste made uk made india version,-1,"['differ', 'tast', 'made', 'uk', 'made', 'india', 'version']"
+taste thai,1,"['tast', 'thai']"
+teeny tiny little treats healthy reward following commands,1,"['teeni', 'tini', 'littl', 'treat', 'healthi', 'reward', 'follow', 'command']"
+yummy popchips,1,"['yummi', 'popchip']"
+babys favorite dinner,1,"['babi', 'favorit', 'dinner']"
+yowzah,1,['yowzah']
+dogs love treat,1,"['dog', 'love', 'treat']"
+flavor runny though,1,"['flavor', 'runni', 'though']"
+hard control quantity,-1,"['hard', 'control', 'quantiti']"
+pucker,1,['pucker']
+organic tasty,1,"['organ', 'tasti']"
+disappointed,-1,['disappoint']
+great healthy hot greattasting vegan meal go,1,"['great', 'healthi', 'hot', 'greattast', 'vegan', 'meal', 'go']"
+one bite youll become chippoisseur,1,"['one', 'bite', 'youll', 'becom', 'chippoisseur']"
+twizzlers,1,['twizzler']
+yummy,1,['yummi']
+foodgreat,1,['foodgreat']
+love variety pack,1,"['love', 'varieti', 'pack']"
+delicious easy,1,"['delici', 'easi']"
+didnt taste,-1,"['didnt', 'tast']"
+popchips flavor variety pack,1,"['popchip', 'flavor', 'varieti', 'pack']"
+ferret loves,1,"['ferret', 'love']"
+delicate asian salad dressing,1,"['delic', 'asian', 'salad', 'dress']"
+love kettle,1,"['love', 'kettl']"
+stale product,-1,"['stale', 'product']"
+best ive,1,"['best', 'ive']"
+yummy small,1,"['yummi', 'small']"
+great strong flavor,1,"['great', 'strong', 'flavor']"
+healthy sweetener,1,"['healthi', 'sweeten']"
+hot delicious,1,"['hot', 'delici']"
+cheaper ingredients lowered quality,-1,"['cheaper', 'ingredi', 'lower', 'qualiti']"
+shining star,1,"['shine', 'star']"
+dirty martini olive juice,1,"['dirti', 'martini', 'oliv', 'juic']"
+cute item expired,-1,"['cute', 'item', 'expir']"
+best stevia product ive found,1,"['best', 'stevia', 'product', 'ive', 'found']"
+wrong flavor got country bbq instead chili chipotle,-1,"['wrong', 'flavor', 'got', 'countri', 'bbq', 'instead', 'chili', 'chipotl']"
+delicious pricey,1,"['delici', 'pricey']"
+popchips,1,['popchip']
+excellent  thumbs,1,"['excel', 'thumb']"
+asparagus bliss,1,"['asparagus', 'bliss']"
+love em big fat belly,1,"['love', 'em', 'big', 'fat', 'belli']"
+mild sweet salty blend,1,"['mild', 'sweet', 'salti', 'blend']"
+love,1,['love']
+maximum rave power,1,"['maximum', 'rave', 'power']"
+perfect mix eggallergic,1,"['perfect', 'mix', 'eggallerg']"
+great value,1,"['great', 'valu']"
+,-1,[]
+mcclures bloody mary mix,1,"['mcclure', 'bloodi', 'mari', 'mix']"
+best wafers,1,"['best', 'wafer']"
+pop tops,1,"['pop', 'top']"
+mueslix cereal,1,"['mueslix', 'cereal']"
+perfect espresso,1,"['perfect', 'espresso']"
+great,1,['great']
+supreme salt vinegar,1,"['suprem', 'salt', 'vinegar']"
+great place start,1,"['great', 'place', 'start']"
+potato,-1,['potato']
+cat digs,1,"['cat', 'dig']"
+glutenfree bliss,1,"['glutenfre', 'bliss']"
+yum,1,['yum']
+pasta lovers dream,1,"['pasta', 'lover', 'dream']"
+,-1,[]
+great glutenfree lifestyle,1,"['great', 'glutenfre', 'lifestyl']"
+happy surprise,1,"['happi', 'surpris']"
+wonderful gravy,1,"['wonder', 'gravi']"
+alive aware organic raw cacao powder,1,"['aliv', 'awar', 'organ', 'raw', 'cacao', 'powder']"
+surprise  different,-1,"['surpris', 'differ']"
+great taffy,1,"['great', 'taffi']"
+best tasting,1,"['best', 'tast']"
+bland,-1,['bland']
+new formulation ,-1,"['new', 'formul']"
+tastes fresh,1,"['tast', 'fresh']"
+thick creamy nice flavor,1,"['thick', 'creami', 'nice', 'flavor']"
+worst caviar ever,-1,"['worst', 'caviar', 'ever']"
+great product,1,"['great', 'product']"
+dog treats,-1,"['dog', 'treat']"
+way salty,1,"['way', 'salti']"
+omaha apple tartlets,1,"['omaha', 'appl', 'tartlet']"
+close nd original hard candy,1,"['close', 'nd', 'origin', 'hard', 'candi']"
+cant take smell,1,"['cant', 'take', 'smell']"
+excellent fluffy pancakes,1,"['excel', 'fluffi', 'pancak']"
+treat day,1,"['treat', 'day']"
+,-1,[]
+popchips r hella,1,"['popchip', 'r', 'hella']"
+terrible flavor,-1,"['terribl', 'flavor']"
+buy elsewhere,1,"['buy', 'elsewher']"
+great eating whole foods clean veggie brush,1,"['great', 'eat', 'whole', 'food', 'clean', 'veggi', 'brush']"
+popchips rule,1,"['popchip', 'rule']"
+healthy yum,1,"['healthi', 'yum']"
+best around hot sauce,1,"['best', 'around', 'hot', 'sauc']"
+great product bitter taste wont spike insulin,1,"['great', 'product', 'bitter', 'tast', 'wont', 'spike', 'insulin']"
+wifes favorite breakfast,1,"['wife', 'favorit', 'breakfast']"
+great alternative regular potato,1,"['great', 'altern', 'regular', 'potato']"
+taste great,1,"['tast', 'great']"
+great dog food,1,"['great', 'dog', 'food']"
+impressed,-1,['impress']
+fantastic product,1,"['fantast', 'product']"
+great,1,['great']
+best babka,1,"['best', 'babka']"
+ drain,-1,['drain']
+deeeeelicious,1,['deeeeelici']
+fabulous product,1,"['fabul', 'product']"
+one best flavors,1,"['one', 'best', 'flavor']"
+delicious,1,['delici']
+tasty quick meal,1,"['tasti', 'quick', 'meal']"
+hot flavorful,1,"['hot', 'flavor']"
+buy,1,['buy']
+kids ate,1,"['kid', 'ate']"
+grow,1,['grow']
+nice fresh,1,"['nice', 'fresh']"
+tasty fruit,1,"['tasti', 'fruit']"
+taste neutral quantity deceitful,-1,"['tast', 'neutral', 'quantiti', 'deceit']"
+taste,-1,['tast']
+delicious tea,1,"['delici', 'tea']"
+quantity,-1,['quantiti']
+originally ordered boo amazon,-1,"['origin', 'order', 'boo', 'amazon']"
+loves,1,['love']
+amazing,1,['amaz']
+delicious,1,['delici']
+worst frosting ever,-1,"['worst', 'frost', 'ever']"
+absolutely delicious,1,"['absolut', 'delici']"
+pop go,1,"['pop', 'go']"
+sure hype,-1,"['sure', 'hype']"
+cherry,1,['cherri']
+highly addicitive,1,"['high', 'addicit']"
+healthy nonfattening right size delicious,1,"['healthi', 'nonfatten', 'right', 'size', 'delici']"
+plockys sweet smokey chipotle whole grain tortill,1,"['plocki', 'sweet', 'smokey', 'chipotl', 'whole', 'grain', 'tortil']"
+tea,-1,['tea']
+best,1,['best']
+delicious crisp flavor,1,"['delici', 'crisp', 'flavor']"
+nothing like actual muesli,-1,"['noth', 'like', 'actual', 'muesli']"
+great dog food,1,"['great', 'dog', 'food']"
+superb pasta,1,"['superb', 'pasta']"
+warning warning alcohol sugars,-1,"['warn', 'warn', 'alcohol', 'sugar']"
+love em theyre great,1,"['love', 'em', 'theyr', 'great']"
+far canned soups go,-1,"['far', 'can', 'soup', 'go']"
+great tasting,1,"['great', 'tast']"
+best unsalted,1,"['best', 'unsalt']"
+great tea,1,"['great', 'tea']"
+brand food,1,"['brand', 'food']"
+bad tasting soup,-1,"['bad', 'tast', 'soup']"
+hard find birds custard powder,1,"['hard', 'find', 'bird', 'custard', 'powder']"
+great food,1,"['great', 'food']"
+best organic milk theremy baby switched similac soy,1,"['best', 'organ', 'milk', 'theremi', 'babi', 'switch', 'similac', 'soy']"
+beer nuts,-1,"['beer', 'nut']"
+tangy delicious snack,1,"['tangi', 'delici', 'snack']"
+carbon footprint product,-1,"['carbon', 'footprint', 'product']"
+fresh,1,['fresh']
+terrible,-1,['terribl']
+cookies crumbles,-1,"['cooki', 'crumbl']"
+sublime fragrance taste,1,"['sublim', 'fragranc', 'tast']"
+high quality gave dog wicked gas,1,"['high', 'qualiti', 'gave', 'dog', 'wick', 'gas']"
+ packets ,-1,['packet']
+ingredients take  seconds read,1,"['ingredi', 'take', 'second', 'read']"
+wow,1,['wow']
+fantastic mix popchip goodness,1,"['fantast', 'mix', 'popchip', 'good']"
+tastes great arrived  days,1,"['tast', 'great', 'arriv', 'day']"
+yay barley,1,"['yay', 'barley']"
+,1,[]
+mmmmmmmmbeernuts,1,['mmmmmmmmbeernut']
+jgk likes beer nuts,1,"['jgk', 'like', 'beer', 'nut']"
+relaxing almost like something smoke,1,"['relax', 'almost', 'like', 'someth', 'smoke']"
+love soup,1,"['love', 'soup']"
+yummy,1,['yummi']
+simply best,1,"['simpli', 'best']"
+maybe worst ever,-1,"['mayb', 'worst', 'ever']"
+great product,1,"['great', 'product']"
+new favorite,1,"['new', 'favorit']"
+great mix fruit nuts whole grain,1,"['great', 'mix', 'fruit', 'nut', 'whole', 'grain']"
+popchips vs baked lays baked lays taste much better,-1,"['popchip', 'v', 'bake', 'lay', 'bake', 'lay', 'tast', 'much', 'better']"
+issues,1,['issu']
+dogs love em,1,"['dog', 'love', 'em']"
+rip price,-1,"['rip', 'price']"
+love snack,1,"['love', 'snack']"
+great food,1,"['great', 'food']"
+best everyday cookie,1,"['best', 'everyday', 'cooki']"
+traditional caramel lovers,-1,"['tradit', 'caramel', 'lover']"
+loved flavor except salt pepper,1,"['love', 'flavor', 'except', 'salt', 'pepper']"
+little flavor,-1,"['littl', 'flavor']"
+outstanding werithers candy,1,"['outstand', 'werith', 'candi']"
+best food dogs,1,"['best', 'food', 'dog']"
+agave nectar,1,"['agav', 'nectar']"
+potatoes,1,['potato']
+love,1,['love']
+sugar raw,1,"['sugar', 'raw']"
+anytime hot tea,1,"['anytim', 'hot', 'tea']"
+crunchy salty sweetfinally superbowl snack scooores,1,"['crunchi', 'salti', 'sweetfin', 'superbowl', 'snack', 'scooor']"
+defacto standard salt vinegar,1,"['defacto', 'standard', 'salt', 'vinegar']"
+ordered,-1,['order']
+eco sugar,1,"['eco', 'sugar']"
+delicious,1,['delici']
+yum yum love pop,1,"['yum', 'yum', 'love', 'pop']"
+beware addicting,1,"['bewar', 'addict']"
+tasted,1,['tast']
+could say blow pop,1,"['could', 'say', 'blow', 'pop']"
+unparalleled taste,1,"['unparallel', 'tast']"
+really nice taste,1,"['realli', 'nice', 'tast']"
+love sea salt vinegar already,1,"['love', 'sea', 'salt', 'vinegar', 'alreadi']"
+love,1,['love']
+great dog food,1,"['great', 'dog', 'food']"
+quite best,1,"['quit', 'best']"
+great,1,['great']
+flavors,1,['flavor']
+yum,1,['yum']
+great taste great value,1,"['great', 'tast', 'great', 'valu']"
+best glutenfree dairyfree,1,"['best', 'glutenfre', 'dairyfre']"
+handy,1,['handi']
+popchips perfect snack pop mouth,1,"['popchip', 'perfect', 'snack', 'pop', 'mouth']"
+great gf baking,1,"['great', 'gf', 'bake']"
+sugar raw,1,"['sugar', 'raw']"
+love hot sauce,1,"['love', 'hot', 'sauc']"
+im fan,1,"['im', 'fan']"
+best ever,1,"['best', 'ever']"
+,1,[]
+taste wise  star item,1,"['tast', 'wise', 'star', 'item']"
+pretty tasting,1,"['pretti', 'tast']"
+kettle brand potato new york cheddar,-1,"['kettl', 'brand', 'potato', 'new', 'york', 'cheddar']"
+sweetener use,1,"['sweeten', 'use']"
+delish,1,['delish']
+,-1,[]
+disappointing,-1,['disappoint']
+metallic pearl sheen airbrush colors,1,"['metal', 'pearl', 'sheen', 'airbrush', 'color']"
+deliciousness little calories,1,"['delici', 'littl', 'calori']"
+furniture polish taste,-1,"['furnitur', 'polish', 'tast']"
+tasty,1,['tasti']
+yum yum,1,"['yum', 'yum']"
+ bag cooked,-1,"['bag', 'cook']"
+bulldogs rule,1,"['bulldog', 'rule']"
+ddjj,-1,['ddjj']
+pop,1,['pop']
+product great price line,1,"['product', 'great', 'price', 'line']"
+hammer nutrition fizz rocks,1,"['hammer', 'nutrit', 'fizz', 'rock']"
+best chipsperiod,1,"['best', 'chipsperiod']"
+way weak tastes,-1,"['way', 'weak', 'tast']"
+hot came back,1,"['hot', 'came', 'back']"
+organic tasty,1,"['organ', 'tasti']"
+ok,1,['ok']
+great organic tea great price,1,"['great', 'organ', 'tea', 'great', 'price']"
+never arrived,-1,"['never', 'arriv']"
+excellent product,1,"['excel', 'product']"
+best,1,['best']
+tastes pretty,1,"['tast', 'pretti']"
+healthy dog food,1,"['healthi', 'dog', 'food']"
+right size taste,1,"['right', 'size', 'tast']"
+like stuff,1,"['like', 'stuff']"
+chocolate ones much better,-1,"['chocol', 'one', 'much', 'better']"
+aunt gussies highfat cookies,-1,"['aunt', 'gussi', 'highfat', 'cooki']"
+fantasticyou beat taste resist one spice lover,1,"['fantasticyou', 'beat', 'tast', 'resist', 'one', 'spice', 'lover']"
+instant,1,['instant']
+music palate,1,"['music', 'palat']"
+babys favorite nd stage food far great constipation,1,"['babi', 'favorit', 'nd', 'stage', 'food', 'far', 'great', 'constip']"
+new granola bar,1,"['new', 'granola', 'bar']"
+gold plated cereal,-1,"['gold', 'plate', 'cereal']"
+best dog treat ever,1,"['best', 'dog', 'treat', 'ever']"
+great fat free spicy,1,"['great', 'fat', 'free', 'spici']"
+cant beat taste,1,"['cant', 'beat', 'tast']"
+buyer bewarethis product contains high fructose corn syrup,-1,"['buyer', 'bewarethi', 'product', 'contain', 'high', 'fructos', 'corn', 'syrup']"
+favorite tea,1,"['favorit', 'tea']"
+medicinal tea really helps,1,"['medicin', 'tea', 'realli', 'help']"
+works saves,1,"['work', 'save']"
+contains trans fat high fructose corn syrup,-1,"['contain', 'tran', 'fat', 'high', 'fructos', 'corn', 'syrup']"
+ridiculously,1,['ridicul']
+better average expensive average,1,"['better', 'averag', 'expens', 'averag']"
+best pancakes ever,1,"['best', 'pancak', 'ever']"
+great concept poor product,-1,"['great', 'concept', 'poor', 'product']"
+make fresh fruit tart light beautiful,1,"['make', 'fresh', 'fruit', 'tart', 'light', 'beauti']"
+cat loves,1,"['cat', 'love']"
+smokin,1,['smokin']
+best,1,['best']
+best buy bbq,1,"['best', 'buy', 'bbq']"
+best experience,-1,"['best', 'experi']"
+bad wont reorder,-1,"['bad', 'wont', 'reorder']"
+kind stale,-1,"['kind', 'stale']"
+excellent quality product fast delivery,1,"['excel', 'qualiti', 'product', 'fast', 'deliveri']"
+coffee,1,['coffe']
+great product,1,"['great', 'product']"
+sweet success,1,"['sweet', 'success']"
+fussy min dachshund loves taste,1,"['fussi', 'min', 'dachshund', 'love', 'tast']"
+items gift basket bad old stale,-1,"['item', 'gift', 'basket', 'bad', 'old', 'stale']"
+delicious,1,['delici']
+simply best,1,"['simpli', 'best']"
+best kept secret,1,"['best', 'kept', 'secret']"
+great tasting pancakes waffles,1,"['great', 'tast', 'pancak', 'waffl']"
+item awesome,1,"['item', 'awesom']"
+tasty potato low calories great flavor,1,"['tasti', 'potato', 'low', 'calori', 'great', 'flavor']"
+caution addictive candylt,1,"['caution', 'addict', 'candylt']"
+everyday cup tea,1,"['everyday', 'cup', 'tea']"
+work,1,['work']
+great marinade,1,"['great', 'marinad']"
+solved  different digestive issues  different dogs,1,"['solv', 'differ', 'digest', 'issu', 'differ', 'dog']"
+favorite thing brazil,1,"['favorit', 'thing', 'brazil']"
+finally,1,['final']
+great tasting diet tea natural ingredients,1,"['great', 'tast', 'diet', 'tea', 'natur', 'ingredi']"
+sad outcome,-1,"['sad', 'outcom']"
+thing ever addicted toothese,1,"['thing', 'ever', 'addict', 'toothes']"
+delicious consistently quality,1,"['delici', 'consist', 'qualiti']"
+quality dog food,1,"['qualiti', 'dog', 'food']"
+tasty,1,['tasti']
+bewarenot dop certified,-1,"['bewarenot', 'dop', 'certifi']"
+love,1,['love']
+though kikkoman,1,"['though', 'kikkoman']"
+great,1,['great']
+hard please kitty loves,1,"['hard', 'plea', 'kitti', 'love']"
+great product,1,"['great', 'product']"
+great dogs allergies,1,"['great', 'dog', 'allergi']"
+better life dog,1,"['better', 'life', 'dog']"
+great item,1,"['great', 'item']"
+great cooking oil,1,"['great', 'cook', 'oil']"
+advertised,-1,['advertis']
+yummy,1,['yummi']
+agave syrup,1,"['agav', 'syrup']"
+pancake mix best,1,"['pancak', 'mix', 'best']"
+favorite,1,['favorit']
+quick yummy unusual soup,1,"['quick', 'yummi', 'unusu', 'soup']"
+great glutenfree snack healthy,1,"['great', 'glutenfre', 'snack', 'healthi']"
+best stuff ever,1,"['best', 'stuff', 'ever']"
+best,1,['best']
+love smaller bags,1,"['love', 'smaller', 'bag']"
+easy looks,-1,"['easi', 'look']"
+look elsewhere whole grains,-1,"['look', 'elsewher', 'whole', 'grain']"
+formulas excellent dogs,1,"['formula', 'excel', 'dog']"
+fantastic coffee best ive ever,1,"['fantast', 'coffe', 'best', 'ive', 'ever']"
+flavor gods,1,"['flavor', 'god']"
+dogs love,1,"['dog', 'love']"
+nice teavery strong cranberry flavor,1,"['nice', 'teaveri', 'strong', 'cranberri', 'flavor']"
+yummy popchips,1,"['yummi', 'popchip']"
+ahmad loose imperial blend tea great price,1,"['ahmad', 'loo', 'imperi', 'blend', 'tea', 'great', 'price']"
+gluten free goodness,1,"['gluten', 'free', 'good']"
+popchips hmmmm hmmm hmmm,1,"['popchip', 'hmmmm', 'hmmm', 'hmmm']"
+youll never use white sugar,1,"['youll', 'never', 'use', 'white', 'sugar']"
+tasty,1,['tasti']
+boxochips,1,['boxochip']
+awesome cacao,1,"['awesom', 'cacao']"
+kettle,1,['kettl']
+best salt vinegar,1,"['best', 'salt', 'vinegar']"
+yum,1,['yum']
+im believer,1,"['im', 'believ']"
+candies delightful,1,"['candi', 'delight']"
+awesome,1,['awesom']
+healthy,1,['healthi']
+awesome,1,['awesom']
+great treats,1,"['great', 'treat']"
+tasty make sure gum,1,"['tasti', 'make', 'sure', 'gum']"
+around forever know,-1,"['around', 'forev', 'know']"
+love,1,['love']
+deceptive like christmas sampler,-1,"['decept', 'like', 'christma', 'sampler']"
+awful sometimes awful,-1,"['aw', 'sometim', 'aw']"
+fabulous,1,['fabul']
+habit forming,1,"['habit', 'form']"
+pop,1,['pop']
+love,1,['love']
+dog loves dog food,1,"['dog', 'love', 'dog', 'food']"
+kona tassimo,1,"['kona', 'tassimo']"
+best hot sauce world,1,"['best', 'hot', 'sauc', 'world']"
+restaurant taste home,1,"['restaur', 'tast', 'home']"
+tangy goodness,1,"['tangi', 'good']"
+yum love pop,1,"['yum', 'love', 'pop']"
+tastes great love hot spicy bad price,1,"['tast', 'great', 'love', 'hot', 'spici', 'bad', 'price']"
+one better tdiscs,1,"['one', 'better', 'tdisc']"
+taste bottle mix vanilla true flavor,1,"['tast', 'bottl', 'mix', 'vanilla', 'true', 'flavor']"
+low quality,-1,"['low', 'qualiti']"
+horrible smell,-1,"['horribl', 'smell']"
+awesome,1,['awesom']
+delicious cup tea,1,"['delici', 'cup', 'tea']"
+highest quality price,1,"['highest', 'qualiti', 'price']"
+ten year old doxie,1,"['ten', 'year', 'old', 'doxi']"
+birds custard powder,1,"['bird', 'custard', 'powder']"
+really olive juice,-1,"['realli', 'oliv', 'juic']"
+tastetested wine maker,1,"['tastetest', 'wine', 'maker']"
+greatest oil since slice bread,1,"['greatest', 'oil', 'sinc', 'slice', 'bread']"
+fun paint,1,"['fun', 'paint']"
+great natural energy,1,"['great', 'natur', 'energi']"
+great way replacing sugar,1,"['great', 'way', 'replac', 'sugar']"
+didnt like taste,-1,"['didnt', 'like', 'tast']"
+great tasting tea cold flu,1,"['great', 'tast', 'tea', 'cold', 'flu']"
+tried product however,-1,"['tri', 'product', 'howev']"
+real pasta half calories taste,1,"['real', 'pasta', 'half', 'calori', 'tast']"
+heavenly action,1,"['heaven', 'action']"
+sorry oprah one favorite things,-1,"['sorri', 'oprah', 'one', 'favorit', 'thing']"
+cant open,-1,"['cant', 'open']"
+popchips,1,['popchip']
+delicious,1,['delici']
+best tortilla ever,1,"['best', 'tortilla', 'ever']"
+save money,-1,"['save', 'money']"
+wonderful tea,1,"['wonder', 'tea']"
+great,1,['great']
+cute small lollipops arrived broken,1,"['cute', 'small', 'lollipop', 'arriv', 'broken']"
+entire family loves,1,"['entir', 'famili', 'love']"
+nantucket blend kcups,1,"['nantucket', 'blend', 'kcup']"
+pretty darn increased cost,1,"['pretti', 'darn', 'increas', 'cost']"
+dog loves,1,"['dog', 'love']"
+awesome,1,['awesom']
+great expensive brands,1,"['great', 'expens', 'brand']"
+great buy,1,"['great', 'buy']"
+kettle foods spicy thai,-1,"['kettl', 'food', 'spici', 'thai']"
+eliminate natural flavor additive,-1,"['elimin', 'natur', 'flavor', 'addit']"
+hands best mint ever,1,"['hand', 'best', 'mint', 'ever']"
+small swirled lollipops,1,"['small', 'swirl', 'lollipop']"
+great snack,1,"['great', 'snack']"
+awful taste,-1,"['aw', 'tast']"
+dessert nutritional enough,1,"['dessert', 'nutrit', 'enough']"
+hard,1,['hard']
+dog loves liver biscotti,1,"['dog', 'love', 'liver', 'biscotti']"
+great lowcal snack,1,"['great', 'lowcal', 'snack']"
+bad instant healthy coffee,1,"['bad', 'instant', 'healthi', 'coffe']"
+crisp,1,['crisp']
+kettle make great mouse food,-1,"['kettl', 'make', 'great', 'mous', 'food']"
+better real stuff,1,"['better', 'real', 'stuff']"
+staple,1,['stapl']
+tasty crunchy filling,1,"['tasti', 'crunchi', 'fill']"
+pop rock,1,"['pop', 'rock']"
+best price agave nectar ive found,1,"['best', 'price', 'agav', 'nectar', 'ive', 'found']"
+shrimp stir fry,1,"['shrimp', 'stir', 'fri']"
+best ever,1,"['best', 'ever']"
+awesome,1,['awesom']
+sugar bomb,-1,"['sugar', 'bomb']"
+great sweet candy,1,"['great', 'sweet', 'candi']"
+great product,1,"['great', 'product']"
+best,1,['best']
+great cookies,1,"['great', 'cooki']"
+great taste,1,"['great', 'tast']"
+great stomach problems,1,"['great', 'stomach', 'problem']"
+best bar,1,"['best', 'bar']"
+worst frosting ever,-1,"['worst', 'frost', 'ever']"
+kettle potato fully loaded baked potato,1,"['kettl', 'potato', 'fulli', 'load', 'bake', 'potato']"
+like,1,['like']
+best,1,['best']
+awesome product,1,"['awesom', 'product']"
+great product,1,"['great', 'product']"
+favorite kettle,1,"['favorit', 'kettl']"
+yum,1,['yum']
+tasty,1,['tasti']
+awsome,1,['awsom']
+best,1,['best']
+best breakfast tea ever,1,"['best', 'breakfast', 'tea', 'ever']"
+child loves,1,"['child', 'love']"
+love stuff,1,"['love', 'stuff']"
+garlic juice,1,"['garlic', 'juic']"
+delicious,1,['delici']
+tast great less lard,1,"['tast', 'great', 'le', 'lard']"
+cant handle caffeine,-1,"['cant', 'handl', 'caffein']"
+pretty tasty decently spiced,1,"['pretti', 'tasti', 'decent', 'spice']"
+dop,-1,['dop']
+yummy,1,['yummi']
+bitter,-1,['bitter']
+great taste picky baby thin compared others,1,"['great', 'tast', 'picki', 'babi', 'thin', 'compar', 'other']"
+cute pops,1,"['cute', 'pop']"
+got ta love em,1,"['got', 'ta', 'love', 'em']"
+rotel saves daily basis,1,"['rotel', 'save', 'daili', 'basi']"
+slightly funny taste begin cant stop eating,1,"['slight', 'funni', 'tast', 'begin', 'cant', 'stop', 'eat']"
+sugar,1,['sugar']
+great dog food,1,"['great', 'dog', 'food']"
+excellent taste,1,"['excel', 'tast']"
+high quality dog enjoys budget,1,"['high', 'qualiti', 'dog', 'enjoy', 'budget']"
+excellent wheaten terriers sensitive tummies,1,"['excel', 'wheaten', 'terrier', 'sensit', 'tummi']"
+great feed others,1,"['great', 'feed', 'other']"
+great price great taste,1,"['great', 'price', 'great', 'tast']"
+sweeter sugar,1,"['sweeter', 'sugar']"
+wintergreen,1,['wintergreen']
+best ive ever tasted,1,"['best', 'ive', 'ever', 'tast']"
+new rooibos tea,1,"['new', 'rooibo', 'tea']"
+disappointed,-1,['disappoint']
+yummy healthy snack,1,"['yummi', 'healthi', 'snack']"
+pop chipsyum,1,"['pop', 'chipsyum']"
+popchips,1,['popchip']
+weak coffee premium product price,-1,"['weak', 'coffe', 'premium', 'product', 'price']"
+yum yummy yummier,1,"['yum', 'yummi', 'yummier']"
+skimpy price charged shocked,-1,"['skimpi', 'price', 'charg', 'shock']"
+addicting,1,['addict']
+tasty,1,['tasti']
+dirty martini,1,"['dirti', 'martini']"
+awesome cornmeal,1,"['awesom', 'cornmeal']"
+healthy,1,['healthi']
+nice tea,1,"['nice', 'tea']"
+price surprise,1,"['price', 'surpris']"
+,1,[]
+mint tea bought,-1,"['mint', 'tea', 'bought']"
+great dirty matinis,1,"['great', 'dirti', 'matini']"
+toasted sesame oil,1,"['toast', 'sesam', 'oil']"
+flavorless sludge,-1,"['flavorless', 'sludg']"
+bitter,-1,['bitter']
+kids liked one flavor,-1,"['kid', 'like', 'one', 'flavor']"
+stuff works,1,"['stuff', 'work']"
+disappointing,-1,['disappoint']
+love,1,['love']
+spectacular tomatoes,1,"['spectacular', 'tomato']"
+love,1,['love']
+spongetastic,1,['spongetast']
+great taste okay crunch,1,"['great', 'tast', 'okay', 'crunch']"
+fridge want meat,1,"['fridg', 'want', 'meat']"
+delicious,1,['delici']
+yum want snack something really,1,"['yum', 'want', 'snack', 'someth', 'realli']"
+love,1,['love']
+oyster sauce,1,"['oyster', 'sauc']"
+different yummy,1,"['differ', 'yummi']"
+best cereal ever eaten,1,"['best', 'cereal', 'ever', 'eaten']"
+waste money,-1,"['wast', 'money']"
+inexpensive alternative gold leaf,1,"['inexpens', 'altern', 'gold', 'leaf']"
+love candy,1,"['love', 'candi']"
+excellent,1,['excel']
+best energy shot smooth organic,1,"['best', 'energi', 'shot', 'smooth', 'organ']"
+great pasta,1,"['great', 'pasta']"
+dont breath mints,-1,"['dont', 'breath', 'mint']"
+convenient,1,['conveni']
+saving grace green mountain coffee,1,"['save', 'grace', 'green', 'mountain', 'coffe']"
+thoughts product,1,"['thought', 'product']"
+fantastic,1,['fantast']
+fast great service,1,"['fast', 'great', 'servic']"
+fluffy soft delicious sugary sweet,1,"['fluffi', 'soft', 'delici', 'sugari', 'sweet']"
+favorite,1,['favorit']
+awesome snack,1,"['awesom', 'snack']"
+yummy ur tummy,1,"['yummi', 'ur', 'tummi']"
+fresh lightlyspiced crunchy kettle value product,1,"['fresh', 'lightlysp', 'crunchi', 'kettl', 'valu', 'product']"
+yum,1,['yum']
+absolutely delicious,1,"['absolut', 'delici']"
+love love popchips,1,"['love', 'love', 'popchip']"
+product,1,['product']
+outstanding product,1,"['outstand', 'product']"
+lot flavor lot chicken,-1,"['lot', 'flavor', 'lot', 'chicken']"
+found shredded plastic baby food,-1,"['found', 'shred', 'plastic', 'babi', 'food']"
+mm mm oats,1,"['mm', 'mm', 'oat']"
+make weak knees,1,"['make', 'weak', 'knee']"
+,1,[]
+better cherry nibs ones gluten,1,"['better', 'cherri', 'nib', 'one', 'gluten']"
+salty hint sweetness,1,"['salti', 'hint', 'sweet']"
+interesting however ive found something else,1,"['interest', 'howev', 'ive', 'found', 'someth', 'el']"
+yum,1,['yum']
+italian born pasta lover gives  stars,1,"['italian', 'born', 'pasta', 'lover', 'give', 'star']"
+poorpoor packaging,-1,"['poorpoor', 'packag']"
+fresh whole perfect,1,"['fresh', 'whole', 'perfect']"
+priced lack rice taste,-1,"['price', 'lack', 'rice', 'tast']"
+drinking love latin america aroma,1,"['drink', 'love', 'latin', 'america', 'aroma']"
+love tea,1,"['love', 'tea']"
+great taste easy single guy,1,"['great', 'tast', 'easi', 'singl', 'guy']"
+dripping oil,-1,"['drip', 'oil']"
+best cat food,1,"['best', 'cat', 'food']"
+great value convenient ramen,1,"['great', 'valu', 'conveni', 'ramen']"
+rated way pricedfrozen meats,-1,"['rate', 'way', 'pricedfrozen', 'meat']"
+,1,[]
+broken tasty,1,"['broken', 'tasti']"
+go wrong,1,"['go', 'wrong']"
+impressed,-1,['impress']
+like one,1,"['like', 'one']"
+delicious,1,['delici']
+great deal,1,"['great', 'deal']"
+great backup scratch,1,"['great', 'backup', 'scratch']"
+great cookies,1,"['great', 'cooki']"
+great substitute sweetener,1,"['great', 'substitut', 'sweeten']"
+gets vote,1,"['get', 'vote']"
+chicken rice,1,"['chicken', 'rice']"
+beware corn allergy,-1,"['bewar', 'corn', 'allergi']"
+gone hill,-1,"['gone', 'hill']"
+great purchase,1,"['great', 'purchas']"
+perfect pop,1,"['perfect', 'pop']"
+tasty tasty tasty,1,"['tasti', 'tasti', 'tasti']"
+moms favorite ceral,1,"['mom', 'favorit', 'ceral']"
+delicious,1,['delici']
+crunch without guilt,1,"['crunch', 'without', 'guilt']"
+disgusting nasty inedible,-1,"['disgust', 'nasti', 'ined']"
+,-1,[]
+quick easy taste great,1,"['quick', 'easi', 'tast', 'great']"
+delicious,1,['delici']
+popchips,1,['popchip']
+best,1,['best']
+,1,[]
+excellent balance taste crunchiness moisture,1,"['excel', 'balanc', 'tast', 'crunchi', 'moistur']"
+great,1,['great']
+bavarian creme flavor oil,1,"['bavarian', 'creme', 'flavor', 'oil']"
+raw organic fair trade tastes great,1,"['raw', 'organ', 'fair', 'trade', 'tast', 'great']"
+gold dust awesome,1,"['gold', 'dust', 'awesom']"
+kelloggs mueslix,1,"['kellogg', 'mueslix']"
+yum,1,['yum']
+wonderful perfect saves fortune,1,"['wonder', 'perfect', 'save', 'fortun']"
+yummie,1,['yummi']
+easter basket,1,"['easter', 'basket']"
+great training,1,"['great', 'train']"
+,-1,[]
+awesome best,1,"['awesom', 'best']"
+perhaps something wrong batch,-1,"['perhap', 'someth', 'wrong', 'batch']"
+different product photo,-1,"['differ', 'product', 'photo']"
+reaction,-1,['reaction']
+wheres vinegar,-1,"['where', 'vinegar']"
+sugar raw,1,"['sugar', 'raw']"
+tasty,1,['tasti']
+specialty party item,1,"['specialti', 'parti', 'item']"
+love love love,1,"['love', 'love', 'love']"
+great,1,['great']
+easy delicious,1,"['easi', 'delici']"
+jello,1,['jello']
+delicious,1,['delici']
+soooo,1,['soooo']
+love weavers fan,1,"['love', 'weaver', 'fan']"
+beer nuts,1,"['beer', 'nut']"
+,1,[]
+tasty beware,-1,"['tasti', 'bewar']"
+tasty easy,1,"['tasti', 'easi']"
+tao tea dont get,-1,"['tao', 'tea', 'dont', 'get']"
+bread mixes,1,"['bread', 'mix']"
+taste wheres fat,1,"['tast', 'where', 'fat']"
+great red caviar tasty attractive eggs,1,"['great', 'red', 'caviar', 'tasti', 'attract', 'egg']"
+happy customer,1,"['happi', 'custom']"
+really wanted like,-1,"['realli', 'want', 'like']"
+,1,[]
+great coffee,1,"['great', 'coffe']"
+excellent,1,['excel']
+horrible,-1,['horribl']
+changed formula makes cats sick,-1,"['chang', 'formula', 'make', 'cat', 'sick']"
+lightly salted yet tasty,1,"['light', 'salt', 'yet', 'tasti']"
+love,1,['love']
+great treat way overpriced shipping charges,1,"['great', 'treat', 'way', 'overpr', 'ship', 'charg']"
+house blend coffee,1,"['hous', 'blend', 'coffe']"
+best matcha quality price,1,"['best', 'matcha', 'qualiti', 'price']"
+soupentree unpopular,1,"['soupentre', 'unpopular']"
+great,1,['great']
+omaha chicken stuffed baked potatoies,1,"['omaha', 'chicken', 'stuf', 'bake', 'potatoi']"
+yummywonderful inexpensive gift item,1,"['yummywond', 'inexpens', 'gift', 'item']"
+delicious best custard ever,1,"['delici', 'best', 'custard', 'ever']"
+salty,-1,['salti']
+variety,-1,['varieti']
+wow,1,['wow']
+coffeemate coffee creamer hazelnut,1,"['coffeem', 'coffe', 'creamer', 'hazelnut']"
+beware hidden ingredients,-1,"['bewar', 'hidden', 'ingredi']"
+pretty overall,1,"['pretti', 'overal']"
+creamy chivey,-1,"['creami', 'chivey']"
+best stevia,1,"['best', 'stevia']"
+hidden sources msg ingredients,-1,"['hidden', 'sourc', 'msg', 'ingredi']"
+love first bite tonguepuckering tang crunch,1,"['love', 'first', 'bite', 'tonguepuck', 'tang', 'crunch']"
+son loves,1,"['son', 'love']"
+yummy,1,['yummi']
+smiles,1,['smile']
+best bloody mary mixer,1,"['best', 'bloodi', 'mari', 'mixer']"
+great preventing cramps,1,"['great', 'prevent', 'cramp']"
+perfect lollipops,1,"['perfect', 'lollipop']"
+great price,1,"['great', 'price']"
+passed taste test,1,"['pas', 'tast', 'test']"
+rotten spoiled taste look,-1,"['rotten', 'spoil', 'tast', 'look']"
+delicious,1,['delici']
+better jalapeno kettle,-1,"['better', 'jalapeno', 'kettl']"
+,1,[]
+excellent tomatoes,1,"['excel', 'tomato']"
+best road snacks health,1,"['best', 'road', 'snack', 'health']"
+amazing,1,['amaz']
+delicious healthy,1,"['delici', 'healthi']"
+hot habanero,-1,"['hot', 'habanero']"
+great fat free ranch,1,"['great', 'fat', 'free', 'ranch']"
+,1,[]
+favorite flavor,1,"['favorit', 'flavor']"
+great inexpensive caviar,1,"['great', 'inexpens', 'caviar']"
+indulgence bite,1,"['indulg', 'bite']"
+juicy jays,1,"['juici', 'jay']"
+didnt care variety selections,-1,"['didnt', 'care', 'varieti', 'select']"
+absolutely best,1,"['absolut', 'best']"
+fragrant tea,1,"['fragrant', 'tea']"
+best alternative sugar,1,"['best', 'altern', 'sugar']"
+earths best rice lentil dinner,1,"['earth', 'best', 'rice', 'lentil', 'dinner']"
+shipped great,1,"['ship', 'great']"
+snack hour,1,"['snack', 'hour']"
+dispenser small,-1,"['dispens', 'small']"
+dont like,-1,"['dont', 'like']"
+popchips,1,['popchip']
+goji cacao maca yuck,-1,"['goji', 'cacao', 'maca', 'yuck']"
+stuff,1,['stuff']
+get healthy live better longer,1,"['get', 'healthi', 'live', 'better', 'longer']"
+better expected,1,"['better', 'expect']"
+arrived broken isnt eligible return,-1,"['arriv', 'broken', 'isnt', 'elig', 'return']"
+maybe dont get,-1,"['mayb', 'dont', 'get']"
+brews excellent cup coffee quickly easily,1,"['brew', 'excel', 'cup', 'coffe', 'quick', 'easili']"
+taste enough heat,1,"['tast', 'enough', 'heat']"
+absolutely vile,-1,"['absolut', 'vile']"
+fully enjoyed,1,"['fulli', 'enjoy']"
+apple cinnamon muffins,1,"['appl', 'cinnamon', 'muffin']"
+flavor gone,-1,"['flavor', 'gone']"
+jolokia salsa review,1,"['jolokia', 'salsa', 'review']"
+swiss chalet,1,"['swiss', 'chalet']"
+wouldnt buy oatmeal mcanns tastes great,1,"['wouldnt', 'buy', 'oatmeal', 'mcann', 'tast', 'great']"
+great deal,1,"['great', 'deal']"
+wow,1,['wow']
+chocolate liquor cups,1,"['chocol', 'liquor', 'cup']"
+ahmad tea,1,"['ahmad', 'tea']"
+works hard openbuy larger version instead pod,-1,"['work', 'hard', 'openbuy', 'larger', 'version', 'instead', 'pod']"
+delicious waffles minutes,1,"['delici', 'waffl', 'minut']"
+delicious,1,['delici']
+birds custard powder,1,"['bird', 'custard', 'powder']"
+box stale crumbs,-1,"['box', 'stale', 'crumb']"
+ugh,-1,['ugh']
+coffee beans,-1,"['coffe', 'bean']"
+great lunch,1,"['great', 'lunch']"
+yum,1,['yum']
+waste money,-1,"['wast', 'money']"
+best salt vinegar,1,"['best', 'salt', 'vinegar']"
+wonderful product,1,"['wonder', 'product']"
+omg buy,-1,"['omg', 'buy']"
+absolutely wonderful,1,"['absolut', 'wonder']"
+watery,-1,['wateri']
+porcini mushrooms excellent product,1,"['porcini', 'mushroom', 'excel', 'product']"
+great tasting alternative,1,"['great', 'tast', 'altern']"
+nice taffy,1,"['nice', 'taffi']"
+yum,1,['yum']
+delish,1,['delish']
+excellent service,1,"['excel', 'servic']"
+ pieces,-1,['piec']
+popchips great,1,"['popchip', 'great']"
+great machine,1,"['great', 'machin']"
+great taste safe natural,1,"['great', 'tast', 'safe', 'natur']"
+funny taste,-1,"['funni', 'tast']"
+omg delicious,1,"['omg', 'delici']"
+amazingly true flavors,1,"['amaz', 'true', 'flavor']"
+soy sauce special mainly unique gift,1,"['soy', 'sauc', 'special', 'main', 'uniqu', 'gift']"
+excellent loose tea,1,"['excel', 'loo', 'tea']"
+worked great,1,"['work', 'great']"
+standard,-1,['standard']
+fantastic natural energy,1,"['fantast', 'natur', 'energi']"
+bars,1,['bar']
+cherrybrook kitchen vanilla frosting,-1,"['cherrybrook', 'kitchen', 'vanilla', 'frost']"
+lollipops,1,['lollipop']
+best deal ever,1,"['best', 'deal', 'ever']"
+kelloggs muselix great,1,"['kellogg', 'muselix', 'great']"
+dont waste money,-1,"['dont', 'wast', 'money']"
+best licorice jelly beans ever,1,"['best', 'licoric', 'jelli', 'bean', 'ever']"
+yum falafel,1,"['yum', 'falafel']"
+way start day,1,"['way', 'start', 'day']"
+excellent everyday olive oil,1,"['excel', 'everyday', 'oliv', 'oil']"
+great love salt vinegar,1,"['great', 'love', 'salt', 'vinegar']"
+tasted ok bit overpriced tho,1,"['tast', 'ok', 'bit', 'overpr', 'tho']"
+happy face,1,"['happi', 'face']"
+best,1,['best']
+please sell mexico,1,"['plea', 'sell', 'mexico']"
+plastic food,-1,"['plastic', 'food']"
+sampler pack various flavors,1,"['sampler', 'pack', 'various', 'flavor']"
+healing tea,1,"['heal', 'tea']"
+great support,1,"['great', 'support']"
+instant favorite,1,"['instant', 'favorit']"
+great dog food,1,"['great', 'dog', 'food']"
+great waffles us noncooks,1,"['great', 'waffl', 'u', 'noncook']"
+slight taste jalapeno,1,"['slight', 'tast', 'jalapeno']"
+pasta,1,['pasta']
+great flavor jello,1,"['great', 'flavor', 'jello']"
+new favorite sweetener,1,"['new', 'favorit', 'sweeten']"
+amazing,1,['amaz']
+pioneer gravy great,1,"['pioneer', 'gravi', 'great']"
+continue long,1,"['continu', 'long']"
+favorite kettle,1,"['favorit', 'kettl']"
+yum,1,['yum']
+best iced tea,1,"['best', 'ice', 'tea']"
+crumbled cookies fun eat,-1,"['crumbl', 'cooki', 'fun', 'eat']"
+great allergy sensitive dog food dogs love,1,"['great', 'allergi', 'sensit', 'dog', 'food', 'dog', 'love']"
+great snacking alternative,1,"['great', 'snack', 'altern']"
+great,1,['great']
+best tea ever,1,"['best', 'tea', 'ever']"
+vanilla tootsie rolls,1,"['vanilla', 'tootsi', 'roll']"
+pop better tasting better regular,1,"['pop', 'better', 'tast', 'better', 'regular']"
+one favorites,1,"['one', 'favorit']"
+farmhouse waffle mix,1,"['farmhous', 'waffl', 'mix']"
+husband loves dirty martinis,1,"['husband', 'love', 'dirti', 'martini']"
+love,1,['love']
+tasty mixture,1,"['tasti', 'mixtur']"
+melted,-1,['melt']
+made china,-1,"['made', 'china']"
+hot,1,['hot']
+sweet mixes,1,"['sweet', 'mix']"
+yummmmmmmmmm,1,['yummmmmmmmmm']
+way expensive,1,"['way', 'expens']"
+great value,1,"['great', 'valu']"
+great tasting,1,"['great', 'tast']"
+great flavor,1,"['great', 'flavor']"
+omg best snack ever,1,"['omg', 'best', 'snack', 'ever']"
+pretzel,1,['pretzel']
+great taste zero calories,1,"['great', 'tast', 'zero', 'calori']"
+cute,1,['cute']
+pop,1,['pop']
+awesome,1,['awesom']
+sassafras tea bags,1,"['sassafra', 'tea', 'bag']"
+hands best pancakes ever,1,"['hand', 'best', 'pancak', 'ever']"
+seeds gravel bits,-1,"['seed', 'gravel', 'bit']"
+fun stuff,1,"['fun', 'stuff']"
+best healthy potato,1,"['best', 'healthi', 'potato']"
+sorry taste pleasing,-1,"['sorri', 'tast', 'plea']"
+popchips love,1,"['popchip', 'love']"
+pop yum,1,"['pop', 'yum']"
+garbonzo bean flour,1,"['garbonzo', 'bean', 'flour']"
+scrumptious,1,['scrumptious']
+dad really liked,1,"['dad', 'realli', 'like']"
+used favorite,-1,"['use', 'favorit']"
+delicious additive,1,"['delici', 'addit']"
+changed taste horrible,-1,"['chang', 'tast', 'horribl']"
+scrumptious,1,['scrumptious']
+price versus taste dont add,-1,"['price', 'versus', 'tast', 'dont', 'add']"
+bad,-1,['bad']
+great pricegreat quality,1,"['great', 'pricegreat', 'qualiti']"
+worth,-1,['worth']
+kettle,1,['kettl']
+love tea taste buds,1,"['love', 'tea', 'tast', 'bud']"
+new favorite munchies found,1,"['new', 'favorit', 'munchi', 'found']"
+delicious,1,['delici']
+cautiondented cans,-1,"['cautiond', 'can']"
+beefeaters swizzles tripe  inch pack ,-1,"['beefeat', 'swizzl', 'tripe', 'inch', 'pack']"
+rich flavorful,1,"['rich', 'flavor']"
+love,1,['love']
+delicious,1,['delici']
+arrowhead mills whole grain buttermilk pancakes easy,1,"['arrowhead', 'mill', 'whole', 'grain', 'buttermilk', 'pancak', 'easi']"
+omg,1,['omg']
+love,1,['love']
+hot hot hot,1,"['hot', 'hot', 'hot']"
+loooooooove,1,['loooooooov']
+tart,1,['tart']
+black beans never tasted,1,"['black', 'bean', 'never', 'tast']"
+amazing,1,['amaz']
+omg best chocolate jelly belly,1,"['omg', 'best', 'chocol', 'jelli', 'belli']"
+great well balanced earl grey,1,"['great', 'well', 'balanc', 'earl', 'grey']"
+baby likes,1,"['babi', 'like']"
+popchips review,1,"['popchip', 'review']"
+best brown sugar cubes,1,"['best', 'brown', 'sugar', 'cube']"
+safe,-1,['safe']
+awesome,1,['awesom']
+lie,-1,['lie']
+best taste ever,1,"['best', 'tast', 'ever']"
+best muffins world,1,"['best', 'muffin', 'world']"
+yum,1,['yum']
+go sweetner,1,"['go', 'sweetner']"
+watch addictive,1,"['watch', 'addict']"
+much,-1,['much']
+kettle potato sweet onion,1,"['kettl', 'potato', 'sweet', 'onion']"
+favorite,1,['favorit']
+amazing last bite,1,"['amaz', 'last', 'bite']"
+heinz,1,['heinz']
+fantastic,1,['fantast']
+great birthday themed party,1,"['great', 'birthday', 'theme', 'parti']"
+perfect,1,['perfect']
+fantastic,1,['fantast']
+quite old dutch much better herrs,1,"['quit', 'old', 'dutch', 'much', 'better', 'herr']"
+sons   loved making easy enough adult supervision age neat project,1,"['son', 'love', 'make', 'easi', 'enough', 'adult', 'supervis', 'age', 'neat', 'project']"
+favorite,-1,['favorit']
+excellent sweetner,1,"['excel', 'sweetner']"
+marianne,1,['mariann']
+theres better curry paste,-1,"['there', 'better', 'curri', 'past']"
+smells great,1,"['smell', 'great']"
+wonderful tea,1,"['wonder', 'tea']"
+another favorite,1,"['anoth', 'favorit']"
+horrid,-1,['horrid']
+love product,1,"['love', 'product']"
+tasteless mess,-1,"['tasteless', 'mess']"
+pop flavor variety,1,"['pop', 'flavor', 'varieti']"
+mmmmmmmmm,1,['mmmmmmmmm']
+make fat,1,"['make', 'fat']"
+big fan,1,"['big', 'fan']"
+dried,-1,['dri']
+dense licorice flavor,1,"['den', 'licoric', 'flavor']"
+kettle sea salt,-1,"['kettl', 'sea', 'salt']"
+hormel compleats simply wonderful,1,"['hormel', 'compleat', 'simpli', 'wonder']"
+yuk,-1,['yuk']
+best hash browns,1,"['best', 'hash', 'brown']"
+coffee amazoncom,1,"['coffe', 'amazoncom']"
+garbanzo beans give horrible gas,-1,"['garbanzo', 'bean', 'give', 'horribl', 'gas']"
+cant find anywhere else,1,"['cant', 'find', 'anywher', 'el']"
+excellent gf,1,"['excel', 'gf']"
+fresh greasy,1,"['fresh', 'greasi']"
+tested trucker,1,"['test', 'trucker']"
+dog food,1,"['dog', 'food']"
+hail israelis,1,"['hail', 'isra']"
+shame use much corn syrup babies,-1,"['shame', 'use', 'much', 'corn', 'syrup', 'babi']"
+yum,1,['yum']
+faboo dangerous prone binges,1,"['faboo', 'danger', 'prone', 'bing']"
+oatmeal oatmeal lovers,1,"['oatmeal', 'oatmeal', 'lover']"
+cats love food,1,"['cat', 'love', 'food']"
+great diet,1,"['great', 'diet']"
+pop delicious,1,"['pop', 'delici']"
+popchips weightwatchers,1,"['popchip', 'weightwatch']"
+cough medicine,-1,"['cough', 'medicin']"
+delicious,1,['delici']
+bad,1,['bad']
+gluten free licorice,1,"['gluten', 'free', 'licoric']"
+nasty flavor,-1,"['nasti', 'flavor']"
+fantastic,1,['fantast']
+u talked mr beer nut,1,"['u', 'talk', 'mr', 'beer', 'nut']"
+every day green tea,1,"['everi', 'day', 'green', 'tea']"
+plockys tortilla chipstasty healthy,1,"['plocki', 'tortilla', 'chipstasti', 'healthi']"
+made mistake,1,"['made', 'mistak']"
+great dessert,1,"['great', 'dessert']"
+yummy,1,['yummi']
+plockys tortilla red beans n rice,1,"['plocki', 'tortilla', 'red', 'bean', 'n', 'rice']"
+loved,1,['love']
+wow stuff incredible,-1,"['wow', 'stuff', 'incred']"
+horrible cant believe,-1,"['horribl', 'cant', 'believ']"
+chocolot,1,['chocolot']
+aluminum free,1,"['aluminum', 'free']"
+cat food,1,"['cat', 'food']"
+daughters favorite jarred food,1,"['daughter', 'favorit', 'jar', 'food']"
+superior hardtofind product,1,"['superior', 'hardtofind', 'product']"
+pictured,-1,['pictur']
+hard find beer nuts,1,"['hard', 'find', 'beer', 'nut']"
+great product,1,"['great', 'product']"
+treat,1,['treat']
+salty vinegary,1,"['salti', 'vinegari']"
+yummy,1,['yummi']
+fabulous food,1,"['fabul', 'food']"
+great product,1,"['great', 'product']"
+looking different flavor,1,"['look', 'differ', 'flavor']"
+beautiful delicious,1,"['beauti', 'delici']"
+picture shows dop,-1,"['pictur', 'show', 'dop']"
+best case,1,"['best', 'case']"
+great product,1,"['great', 'product']"
+really expensive,1,"['realli', 'expens']"
+hey,1,['hey']
+warm wonderful,1,"['warm', 'wonder']"
+tang packs punch,1,"['tang', 'pack', 'punch']"
+fantastic hot meal,1,"['fantast', 'hot', 'meal']"
+best ever latice tart,1,"['best', 'ever', 'latic', 'tart']"
+popchips  flavor variety,1,"['popchip', 'flavor', 'varieti']"
+healthy tasty,1,"['healthi', 'tasti']"
+great stuff,1,"['great', 'stuff']"
+delicious,1,['delici']
+tasteless low calorie,-1,"['tasteless', 'low', 'calori']"
+da vinci sugar free blueberry syrup,-1,"['da', 'vinci', 'sugar', 'free', 'blueberri', 'syrup']"
+great waffles every time,1,"['great', 'waffl', 'everi', 'time']"
+great deal,1,"['great', 'deal']"
+works great,1,"['work', 'great']"
+worst cookies ever,-1,"['worst', 'cooki', 'ever']"
+add sugar,-1,"['add', 'sugar']"
+baby lilly says  thumbs,1,"['babi', 'lilli', 'say', 'thumb']"
+totally delicious delightful,1,"['total', 'delici', 'delight']"
+love thick crunchy,1,"['love', 'thick', 'crunchi']"
+amazing service,1,"['amaz', 'servic']"
+best earl grey ever,1,"['best', 'earl', 'grey', 'ever']"
+disappointed,-1,['disappoint']
+buy eat happy,1,"['buy', 'eat', 'happi']"
+salty,-1,['salti']
+best canned tomatoes,1,"['best', 'can', 'tomato']"
+gadget doesnt job,-1,"['gadget', 'doesnt', 'job']"
+great little treats,1,"['great', 'littl', 'treat']"
+happy dog,1,"['happi', 'dog']"
+delish,1,['delish']
+berry snack bars,1,"['berri', 'snack', 'bar']"
+pancakewaffle mix,1,"['pancakewaffl', 'mix']"
+tastes great,1,"['tast', 'great']"
+tasty,1,['tasti']
+eukanuba puppy small breed dog food,1,"['eukanuba', 'puppi', 'small', 'breed', 'dog', 'food']"
+like,1,['like']
+delicious else expect,1,"['delici', 'el', 'expect']"
+feline uti,1,"['felin', 'uti']"
+colicacid reflux babiestry,1,"['colicacid', 'reflux', 'babiestri']"
+totally great balance flavors expect asian dressing,1,"['total', 'great', 'balanc', 'flavor', 'expect', 'asian', 'dress']"
+barely bag,-1,"['bare', 'bag']"
+nopot fresh coffee,1,"['nopot', 'fresh', 'coffe']"
+best hot sauce world,1,"['best', 'hot', 'sauc', 'world']"
+love,1,['love']
+worlds best sweetener,1,"['world', 'best', 'sweeten']"
+gummy bears,1,"['gummi', 'bear']"
+easy make also,1,"['easi', 'make', 'also']"
+really didnt like,-1,"['realli', 'didnt', 'like']"
+heavenly,1,['heaven']
+pop,1,['pop']
+great price,1,"['great', 'price']"
+tasty,1,['tasti']
+sass tea,-1,"['sas', 'tea']"
+disappointed,-1,['disappoint']
+absolutely revolting,-1,"['absolut', 'revolt']"
+popchips variety box,1,"['popchip', 'varieti', 'box']"
+best tortilla ever eaten,1,"['best', 'tortilla', 'ever', 'eaten']"
+great food dog sensitive stomach,1,"['great', 'food', 'dog', 'sensit', 'stomach']"
+great cereal,1,"['great', 'cereal']"
+worst summer ever,-1,"['worst', 'summer', 'ever']"
+spice grow,1,"['spice', 'grow']"
+best sauce around,1,"['best', 'sauc', 'around']"
+stale cigars,-1,"['stale', 'cigar']"
+favorite tea,1,"['favorit', 'tea']"
+yummy,1,['yummi']
+best sauce tomato canned fresh period,1,"['best', 'sauc', 'tomato', 'can', 'fresh', 'period']"
+unbelievable deal hard find pruduct,1,"['unbeliev', 'deal', 'hard', 'find', 'pruduct']"
+grocery stores,1,"['groceri', 'store']"
+lots pops,1,"['lot', 'pop']"
+love gluten free oatmeal,1,"['love', 'gluten', 'free', 'oatmeal']"
+great belgian waffle batter,1,"['great', 'belgian', 'waffl', 'batter']"
+tasty,1,['tasti']
+fine tasting full lea great value,1,"['fine', 'tast', 'full', 'lea', 'great', 'valu']"
+loved oats,1,"['love', 'oat']"
+harmony farms review,1,"['harmoni', 'farm', 'review']"
+tic tac solution,1,"['tic', 'tac', 'solut']"
+luuuv popchips,1,"['luuuv', 'popchip']"
+best,1,['best']
